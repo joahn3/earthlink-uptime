@@ -1,4 +1,4 @@
-# [📈 Live Status](https://joahn3.github.io/earthlink-upptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://joahn3.github.io/earthlink-uptime): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Ionuț Francisc](https://joahn3.github.io/earthlink-upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
