@@ -16,9 +16,15 @@ sites:
   - name: Secom
     url: https://www.secom.ro
     icon: https://www.secom.ro/img/frontend/secom-logo.svg
+  - name: Mega Construct
+    url: https://www.megaconstruct.ro/
+    icon: https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg
+  - name: BLT
+    url: https://www.blt.ro
+    icon: https://www.blt.ro/_res/media/media-generala/favicon-blt3.png
 
 status-website:
-  theme: dark
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
