@@ -18,7 +18,7 @@ sites:
     icon: 
   - name: RoNet
     url: https://ronet.xtelecom.ro/
-    icon: 
+    icon: https://ronet.xtelecom.ro/imagini/xtelecom.png
   - name: Tsty
     url: https://www.tsty.ro
     icon: https://www.tsty.ro/favicons/favicon.ico
@@ -105,7 +105,7 @@ status-website:
   name: Your IT&C Partner
   logoUrl: https://earthlink.ro/images/logos/logo.png
   favicon: https://earthlink.ro/favico.png
-  introTitle: "[earth**link**](https://earthlink.ro) monitor and status page."
+  introTitle: "[earthlink](https://earthlink.ro) monitor and status page."
   introMessage: It uses **real-time** data from our [GitHub repository](https://github.com/joahn3/earthlink-uptime).
   navbar:
 
