@@ -73,7 +73,7 @@ sites:
   
 
 status-website:
-  theme: light
+  theme: dark
   metaTags:
     - name: "robots"
       content: "noindex"
@@ -84,11 +84,9 @@ status-website:
   name: Your IT&C Partner
   logoUrl: https://earthlink.ro/images/logos/logo.png
   favicon: https://earthlink.ro/favico.png
-  introTitle: "**Earthlink** monitor and status page."
+  introTitle: "**[Earthlink](https://earthlink.ro)** monitor and status page."
   introMessage: It uses **real-time** data from our [GitHub repository](https://github.com/joahn3/earthlink-uptime).
   navbar:
-    - title: Earthlink
-      href: https://earthlink.ro
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
