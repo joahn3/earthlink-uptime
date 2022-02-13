@@ -59,8 +59,8 @@ sites:
     url: https://www.secom.ro
     icon: https://www.secom.ro/img/frontend/secom-logo.svg
   - name: Mega Construct
-    url: http://megaconstruct.ro
-    icon: https://megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg
+    url: https://www.megaconstruct.ro/
+    icon: https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg
   - name: BLT
     url: https://www.blt.ro
     icon: https://www.blt.ro/_res/media/media-generala/favicon-blt3.png
