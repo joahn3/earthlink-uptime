@@ -7,6 +7,18 @@ sites:
   - name: earthlink
     url: https://www.earthlink.ro
     icon: https://earthlink.ro/favico.png
+  - name: earthlink status
+    url: https://status.earthlink.ro
+    icon: https://earthlink.ro/favico.png
+  - name: earthlink status-backbone
+    url: status-backbone.earthlink.ro
+    icon: https://earthlink.ro/favico.png
+  - name: xtelecom Admin
+    url: https://admin.xtelecom.ro/login
+    icon: 
+  - name: RoNet
+    url: https://ronet.xtelecom.ro/
+    icon: 
   - name: Tsty
     url: https://www.tsty.ro
     icon: https://www.tsty.ro/favicons/favicon.ico
@@ -21,6 +33,9 @@ sites:
     icon: https://avatars.githubusercontent.com/u/26483909?s=200&v=4
   - name: Rolcris
     url: https://rolcris.ro
+    icon: https://www.rolcris.ro/favicons/favicon.ico
+  - name: Rolcris ERP
+    url: https://erp.rolcris.ro
     icon: https://www.rolcris.ro/favicons/favicon.ico
   - name: CRM Rolcris
     url: https://crm.rolcris.ro/login
@@ -70,6 +85,12 @@ sites:
   - name: GP Batteries
     url: https://www.gpbatteries.ro
     icon: https://www.globstar.ro/img/dor-bionic-logo-1574507922.jpg
+  - name: Globstar B2B 
+    url: https://b2b.globstar.ro
+    icon: https://globstar.ro/img/dor-bionic-logo-1574507922.jpg
+  - name: Globstar Service UPS
+    url: https://serviceups.globstar.ro
+    icon: https://serviceups.globstar.ro/wp-content/uploads/2019/09/globstar-logo-service-ups-specializat.png
   
 
 status-website:
