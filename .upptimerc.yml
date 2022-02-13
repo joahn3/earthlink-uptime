@@ -4,7 +4,7 @@ repo: earthlink-uptime # The name of this repository
 user-agent: joahn3
 
 sites:
-  - name: earth**link**
+  - name: earthlink
     url: https://www.earthlink.ro
     icon: https://earthlink.ro/favico.png
   - name: Tsty
@@ -22,9 +22,6 @@ sites:
   - name: Rolcris
     url: https://rolcris.ro
     icon: https://www.rolcris.ro/favicons/favicon.ico
-  - name: Rolcris ERP
-    url: https://app.rolcris.ro
-    icon: https://www.rolcris.ro/favicons/favicon.ico
   - name: CRM Rolcris
     url: https://crm.rolcris.ro/login
     icon: https://crm.rolcris.ro/images/logo.svg
@@ -37,9 +34,6 @@ sites:
   - name: CEI Sales Wiki
     url: https://wiki.ceisales.com/login
     icon: https://wiki.ceisales.com/vendor/wiki/icon.png
-  - name: CEI Sales Webmail
-    url: https://webmail.ceisales.com	
-    icon: https://ceisales.com/favicons/favicon.ico
   - name: KM Digital
     url: https://k-m.com
     icon: https://k-m.com/app/uploads/2016/05/logo.svg
@@ -47,7 +41,7 @@ sites:
     url: https://www.secom.ro
     icon: https://www.secom.ro/img/frontend/secom-logo.svg
   - name: Mega Construct
-    url: https://megaconstruct.ro
+    url: http://megaconstruct.ro
     icon: https://megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg
   - name: BLT
     url: https://www.blt.ro
@@ -68,7 +62,7 @@ sites:
     url: https://www.amoobi.com
     icon: https://www.amoobi.com/files/design/logo_amoobi.png
   - name: GlobStar 1
-    url: https://globstar.ro
+    url: http://globstar.ro
     icon: https://globstar.ro/img/dor-bionic-logo-1574507922.jpg
   - name: Ted Electric EU
     url: https://www.tedelectric.eu
