@@ -4,7 +4,7 @@ repo: earthlink-uptime # The name of this repository
 user-agent: joahn3
 
 sites:
-  - name: EarthLink
+  - name: earth**link**
     url: https://www.earthlink.ro
     icon: https://earthlink.ro/favico.png
   - name: Tsty
