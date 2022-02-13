@@ -10,9 +10,18 @@ sites:
   - name: Tsty
     url: https://www.tsty.ro
     icon: https://www.tsty.ro/favicons/favicon.ico
+  - name: Laravel Enso
+    url: https://laravel-enso.com
+    icon: https://avatars.githubusercontent.com/u/26483909?s=200&v=4
+  - name: Laravel Enso Docs
+    url: https://docs.laravel-enso.com
+    icon: https://avatars.githubusercontent.com/u/26483909?s=200&v=4
   - name: RolCris
     url: https://rolcris.ro
     icon: https://www.rolcris.ro/favicons/favicon.ico
+  - name: CRM RolCris
+    url: https://crm.rolcris.ro/login
+    icon: https://crm.rolcris.ro/images/logo.svg
   - name: CEI Sales
     url: https://ceisales.com
     icon: https://ceisales.com/favicons/favicon.ico
