@@ -53,7 +53,7 @@ status-website:
   baseUrl: /earthlink-uptime
   name: 
   logoUrl: https://earthlink.ro/images/logos/logo.png
-  introTitle: "**Upptime** monitor and status page."
+  introTitle: "**Earthlink** monitor and status page."
   introMessage: It uses **real-time** data from our [GitHub repository](https://github.com/joahn3/earthlink-uptime).
   navbar:
     - title: Earthlink
