@@ -58,15 +58,15 @@ sites:
   - name: Secom
     url: https://www.secom.ro
     icon: https://www.secom.ro/img/frontend/secom-logo.svg
-  - name: Mega Construct
-    url: https://www.megaconstruct.ro
-    icon: https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg
   - name: BLT
     url: https://www.blt.ro
     icon: https://www.blt.ro/_res/media/media-generala/favicon-blt3.png
   - name: MIBA
     url: https://www.miba.ro
     icon: https://www.miba.ro/img/logo.png
+  - name: MegaConstruct
+    url: https://www.megaconstruct.ro
+    icon: https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg
   - name: TCC Iasi
     url: https://www.tcc-iasi.ro
     icon: https://www.tcc-iasi.ro/images/logo.png
@@ -105,7 +105,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /earthlink-uptime
-  name: earth**link** > Your IT&C Partner
+  name: earthlink > Your IT&C Partner
   logoUrl: https://earthlink.ro/favico.png
   favicon: https://earthlink.ro/favico.png
   introTitle: Uptime monitor and status page.
