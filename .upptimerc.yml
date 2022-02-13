@@ -7,12 +7,18 @@ sites:
   - name: EarthLink
     url: https://www.earthlink.ro
     icon: https://earthlink.ro/favico.png
+  - name: Tsty
+    url: https://www.tsty.ro
+    icon: https://www.tsty.ro/favicons/favicon.ico
   - name: RolCris
     url: https://rolcris.ro
     icon: https://www.rolcris.ro/favicons/favicon.ico
   - name: CEI Sales
     url: https://ceisales.com
     icon: https://ceisales.com/favicons/favicon.ico
+  - name: KM Digital
+    url: https://k-m.com
+    icon: https://k-m.com/app/uploads/2016/05/logo.svg
   - name: Secom
     url: https://www.secom.ro
     icon: https://www.secom.ro/img/frontend/secom-logo.svg
@@ -43,10 +49,13 @@ sites:
   - name: Ted Electric EU
     url: https://www.tedelectric.eu/
     icon: https://www.tedelectric.eu/lay/ted-top/ted_top_r1_c1.png
+  - name: GP Batteries
+    url: https://www.gpbatteries.ro
+    icon: https://www.globstar.ro/img/dor-bionic-logo-1574507922.jpg
   
 
 status-website:
-  theme: ocean
+  theme: light
   metaTags:
     - name: "robots"
       content: "noindex"
