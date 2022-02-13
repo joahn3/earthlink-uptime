@@ -105,10 +105,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /earthlink-uptime
-  name: Your IT&C Partner
+  name: earthlink - Your IT&C Partner
   logoUrl: https://earthlink.ro/favico.png
   favicon: https://earthlink.ro/favico.png
-  introTitle: "[earthlink](https://earthlink.ro) monitor and status page."
+  introTitle: Uptime monitor and status page.
   introMessage: It uses **real-time** data from our [GitHub repository](https://github.com/joahn3/earthlink-uptime).
   navbar:
 
