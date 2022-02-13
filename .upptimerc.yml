@@ -1,31 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: joahn3 # Your GitHub organization or username, where this repository lives
+repo: earthlink-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: EarthLink
+    url: https://www.earthlink.ro
+    icon: https://earthlink.ro/favico.png
+  - name: RolCris
+    url: https://rolcris.ro
+    icon: https://www.rolcris.ro/favicons/favicon.ico
+  - name: CEI Sales
+    url: https://ceisales.com
+    icon: https://ceisales.com/favicons/favicon.ico
+  - name: Secom
+    url: https://www.secom.ro
+    icon: https://www.secom.ro/img/frontend/secom-logo.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /earthlink-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Earthlink > Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime).
+  ## ⭐ How it works
+    - GitHub Actions is used as an uptime monitor
+    - Every 5 minutes, a workflow visits your website to make sure it's up
+    - Response time is recorded every 6 hours and committed to git
+    - Graphs of response time are generated every day
+    - GitHub Issues are used for incident reports
+    - An issue is opened if an endpoint is down
+    - People from your team are assigned to the issue
+    - Incidents reports are posted as issue comments
+    - Issues are locked so non-members cannot comment on them
+    - Issues are closed automatically when your site comes back up
+    - Slack notifications are sent on updates
+    - GitHub Pages are used for the status website
+    - A simple, beautiful, and accessible PWA is generated
+    - Built with Svelte and Sapper
+    - Fetches data from this repository using the GitHub API
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Earthlink
+      href: https://earthlink.ro
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
