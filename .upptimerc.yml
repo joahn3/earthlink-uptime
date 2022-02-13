@@ -59,7 +59,7 @@ sites:
     url: https://www.secom.ro
     icon: https://www.secom.ro/img/frontend/secom-logo.svg
   - name: Mega Construct
-    url: https://www.megaconstruct.ro/
+    url: https://www.megaconstruct.ro
     icon: https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg
   - name: BLT
     url: https://www.blt.ro
@@ -106,7 +106,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /earthlink-uptime
   name: Your IT&C Partner
-  logoUrl: https://earthlink.ro/images/logos/logo.png
+  logoUrl: https://earthlink.ro/favico.png
   favicon: https://earthlink.ro/favico.png
   introTitle: "[earthlink](https://earthlink.ro) monitor and status page."
   introMessage: It uses **real-time** data from our [GitHub repository](https://github.com/joahn3/earthlink-uptime).
