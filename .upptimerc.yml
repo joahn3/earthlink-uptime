@@ -25,6 +25,12 @@ sites:
   - name: CEI Sales
     url: https://ceisales.com
     icon: https://ceisales.com/favicons/favicon.ico
+  - name: CEI Sales App
+    url: https://app.ceisales.com/login
+    icon: https://app.ceisales.com/images/logo.svg
+  - name: CEI Sales Wiki
+    url: https://wiki.ceisales.com/login
+    icon: https://wiki.ceisales.com/vendor/wiki/icon.png
   - name: KM Digital
     url: https://k-m.com
     icon: https://k-m.com/app/uploads/2016/05/logo.svg
