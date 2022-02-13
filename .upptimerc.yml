@@ -28,6 +28,22 @@ sites:
   - name: TCC Iasi
     url: https://www.tcc-iasi.ro
     icon: https://www.tcc-iasi.ro/images/logo.png
+  - name: Felix Telecom
+    url: https://www.felixtelecom.ro
+    icon: https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg
+  - name: Paicu & Sons Consulting
+    url: https://paicucons.ro
+    icon: https://paicucons.ro/wp-content/themes/paicu/inc/assets/images/logo-dark.png
+  - name: Amoobi
+    url: https://www.amoobi.com
+    icon: https://www.amoobi.com/files/design/logo_amoobi.png
+  - name: GlobStar 1
+    url: https://www.globstar.ro/
+    icon: https://www.globstar.ro/img/dor-bionic-logo-1574507922.jpg
+  - name: Ted Electric EU
+    url: https://www.tedelectric.eu/
+    icon: https://www.tedelectric.eu/lay/ted-top/ted_top_r1_c1.png
+  
 
 status-website:
   theme: night
