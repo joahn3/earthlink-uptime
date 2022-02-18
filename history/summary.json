@@ -339,18 +339,18 @@
     "icon": "https://www.blt.ro/_res/media/media-generala/favicon-blt3.png",
     "slug": "blt",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.78%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 2800,
     "timeDay": 3483,
     "timeWeek": 2800,
     "timeMonth": 2800,
     "timeYear": 2800,
     "dailyMinutesDown": {
-      "2022-02-18": 1
+      "2022-02-18": 15
     }
   },
   {
@@ -388,7 +388,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-18": 58,
+      "2022-02-18": 73,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
@@ -485,7 +485,7 @@
     "timeMonth": 2180,
     "timeYear": 2180,
     "dailyMinutesDown": {
-      "2022-02-18": 58,
+      "2022-02-18": 73,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
