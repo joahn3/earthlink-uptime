@@ -66,6 +66,7 @@ sites:
     icon: https://www.miba.ro/img/logo.png
   - name: MegaConstruct
     url: https://www.megaconstruct.ro
+    __dangerous__insecure: true
     icon: https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg
   - name: TCC Iasi
     url: https://www.tcc-iasi.ro
@@ -80,7 +81,8 @@ sites:
     url: https://www.amoobi.com
     icon: https://www.amoobi.com/files/design/logo_amoobi.png
   - name: GlobStar 1
-    url: http://globstar.ro
+    url: https://globstar.ro
+    __dangerous__insecure: true
     icon: https://globstar.ro/img/dor-bionic-logo-1574507922.jpg
   - name: Ted Electric EU
     url: https://www.tedelectric.eu
