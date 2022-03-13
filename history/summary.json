@@ -13,7 +13,7 @@
     "time": 1864,
     "timeDay": 1419,
     "timeWeek": 1682,
-    "timeMonth": 1864,
+    "timeMonth": 1859,
     "timeYear": 1864,
     "dailyMinutesDown": {
       "2022-03-01": 57
@@ -139,7 +139,7 @@
     "time": 1299,
     "timeDay": 902,
     "timeWeek": 1206,
-    "timeMonth": 1282,
+    "timeMonth": 1280,
     "timeYear": 1299,
     "dailyMinutesDown": {
       "2022-03-03": 27
@@ -159,7 +159,7 @@
     "time": 854,
     "timeDay": 678,
     "timeWeek": 799,
-    "timeMonth": 854,
+    "timeMonth": 861,
     "timeYear": 854,
     "dailyMinutesDown": {}
   },
@@ -177,7 +177,7 @@
     "time": 2136,
     "timeDay": 1226,
     "timeWeek": 1748,
-    "timeMonth": 2157,
+    "timeMonth": 2191,
     "timeYear": 2136,
     "dailyMinutesDown": {
       "2022-02-25": 86,
@@ -198,7 +198,7 @@
     "time": 401,
     "timeDay": 1110,
     "timeWeek": 405,
-    "timeMonth": 392,
+    "timeMonth": 397,
     "timeYear": 401,
     "dailyMinutesDown": {}
   },
@@ -216,7 +216,7 @@
     "time": 3104,
     "timeDay": 2186,
     "timeWeek": 3341,
-    "timeMonth": 3104,
+    "timeMonth": 3133,
     "timeYear": 3104,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.87%",
     "time": 1305,
     "timeDay": 732,
@@ -254,7 +254,7 @@
     "time": 894,
     "timeDay": 726,
     "timeWeek": 817,
-    "timeMonth": 894,
+    "timeMonth": 902,
     "timeYear": 894,
     "dailyMinutesDown": {
       "2022-03-01": 55
@@ -266,15 +266,15 @@
     "icon": "https://ceisales.com/favicons/favicon.ico",
     "slug": "cei-sales",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.56%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
+    "uptimeMonth": "97.58%",
+    "uptimeYear": "97.58%",
     "time": 311,
     "timeDay": 123,
     "timeWeek": 291,
-    "timeMonth": 313,
+    "timeMonth": 316,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2022-03-11": 15,
@@ -306,7 +306,7 @@
     "time": 216,
     "timeDay": 48,
     "timeWeek": 189,
-    "timeMonth": 214,
+    "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2022-03-10": 15,
@@ -327,15 +327,15 @@
     "icon": "https://wiki.ceisales.com/vendor/wiki/icon.png",
     "slug": "cei-sales-wiki",
     "status": "up",
-    "uptime": "97.94%",
+    "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.04%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "97.94%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "97.95%",
     "time": 210,
     "timeDay": 68,
     "timeWeek": 172,
-    "timeMonth": 209,
+    "timeMonth": 213,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2022-03-06": 399,
@@ -359,7 +359,7 @@
     "time": 329,
     "timeDay": 359,
     "timeWeek": 329,
-    "timeMonth": 332,
+    "timeMonth": 342,
     "timeYear": 329,
     "dailyMinutesDown": {}
   },
@@ -377,7 +377,7 @@
     "time": 1351,
     "timeDay": 597,
     "timeWeek": 439,
-    "timeMonth": 1295,
+    "timeMonth": 1263,
     "timeYear": 1351,
     "dailyMinutesDown": {}
   },
@@ -395,7 +395,7 @@
     "time": 2837,
     "timeDay": 1901,
     "timeWeek": 2242,
-    "timeMonth": 2862,
+    "timeMonth": 2887,
     "timeYear": 2837,
     "dailyMinutesDown": {
       "2022-02-18": 331
@@ -424,15 +424,15 @@
     "url": "https://www.megaconstruct.ro",
     "icon": "https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg",
     "slug": "mega-construct",
-    "status": "up",
-    "uptime": "60.25%",
-    "uptimeDay": "89.38%",
+    "status": "down",
+    "uptime": "60.37%",
+    "uptimeDay": "90.97%",
     "uptimeWeek": "94.73%",
-    "uptimeMonth": "60.43%",
-    "uptimeYear": "60.25%",
+    "uptimeMonth": "60.83%",
+    "uptimeYear": "60.37%",
     "time": 1401,
-    "timeDay": 1255,
-    "timeWeek": 1160,
+    "timeDay": 1239,
+    "timeWeek": 1158,
     "timeMonth": 1401,
     "timeYear": 1401,
     "dailyMinutesDown": {
@@ -481,7 +481,7 @@
     "time": 1235,
     "timeDay": 902,
     "timeWeek": 1097,
-    "timeMonth": 1231,
+    "timeMonth": 1239,
     "timeYear": 1235,
     "dailyMinutesDown": {
       "2022-03-01": 55,
@@ -502,7 +502,7 @@
     "time": 2863,
     "timeDay": 3245,
     "timeWeek": 2674,
-    "timeMonth": 2721,
+    "timeMonth": 2831,
     "timeYear": 2863,
     "dailyMinutesDown": {
       "2022-02-18": 65
@@ -522,7 +522,7 @@
     "time": 992,
     "timeDay": 741,
     "timeWeek": 840,
-    "timeMonth": 938,
+    "timeMonth": 943,
     "timeYear": 992,
     "dailyMinutesDown": {}
   },
@@ -540,7 +540,7 @@
     "time": 1715,
     "timeDay": 1130,
     "timeWeek": 1511,
-    "timeMonth": 1745,
+    "timeMonth": 1772,
     "timeYear": 1715,
     "dailyMinutesDown": {
       "2022-02-28": 21
@@ -555,15 +555,15 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.13%",
+    "uptimeMonth": "0.41%",
     "uptimeYear": "0.00%",
     "time": 2318,
     "timeDay": 2094,
     "timeWeek": 2280,
-    "timeMonth": 2473,
+    "timeMonth": 2489,
     "timeYear": 2318,
     "dailyMinutesDown": {
-      "2022-03-13": 467,
+      "2022-03-13": 584,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
@@ -608,7 +608,7 @@
     "time": 1437,
     "timeDay": 1540,
     "timeWeek": 1439,
-    "timeMonth": 1426,
+    "timeMonth": 1439,
     "timeYear": 1437,
     "dailyMinutesDown": {}
   },
@@ -626,7 +626,7 @@
     "time": 1101,
     "timeDay": 852,
     "timeWeek": 1003,
-    "timeMonth": 1091,
+    "timeMonth": 1096,
     "timeYear": 1101,
     "dailyMinutesDown": {}
   },
