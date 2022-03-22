@@ -4,9 +4,8 @@ repo: earthlink-uptime # The name of this repository
 user-agent: joahn3
 
 sites:
-
-- name: ionutFrancisc.com
-    url: https://www.ionut-francisc.netlify.app
+  - name: ionutFrancisc.com (Netlify Dev version)
+    url: https://ionut-francisc.netlify.app
     icon: https://ionut-francisc.netlify.app/favicon.png
   - name: earthlink
     url: https://www.earthlink.ro
