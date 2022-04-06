@@ -1,7 +1,7 @@
 url: https://erp.rolcris.ro
-status: up
-code: 200
-responseTime: 728
-lastUpdated: 2022-04-05T23:11:18.133Z
+status: down
+code: 503
+responseTime: 813
+lastUpdated: 2022-04-06T05:29:30.046Z
 startTime: Sun Feb 13 2022 10:10:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
