@@ -1,7 +1,7 @@
 url: https://rolcris.ro
-status: up
-code: 200
-responseTime: 2189
-lastUpdated: 2022-04-05T23:11:17.129Z
+status: down
+code: 503
+responseTime: 1752
+lastUpdated: 2022-04-06T05:29:26.232Z
 startTime: Sun Feb 13 2022 09:18:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
