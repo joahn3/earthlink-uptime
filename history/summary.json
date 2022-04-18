@@ -106,10 +106,10 @@
     "url": "https://admin.xtelecom.ro/login",
     "icon": "https://favicons.githubusercontent.com/admin.xtelecom.ro",
     "slug": "xtelecom-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1127,
@@ -117,7 +117,9 @@
     "timeWeek": 1170,
     "timeMonth": 1128,
     "timeYear": 1127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 1
+    }
   },
   {
     "name": "RoNet",
@@ -309,7 +311,7 @@
     "time": 317,
     "timeDay": 247,
     "timeWeek": 263,
-    "timeMonth": 312,
+    "timeMonth": 308,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2022-04-18": 23,
@@ -348,7 +350,7 @@
     "time": 216,
     "timeDay": 157,
     "timeWeek": 178,
-    "timeMonth": 207,
+    "timeMonth": 205,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2022-04-18": 21,
@@ -383,7 +385,7 @@
     "time": 210,
     "timeDay": 148,
     "timeWeek": 163,
-    "timeMonth": 203,
+    "timeMonth": 201,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2022-04-18": 20,
@@ -479,15 +481,15 @@
     "icon": "https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg",
     "slug": "mega-construct",
     "status": "up",
-    "uptime": "96.55%",
+    "uptime": "96.56%",
     "uptimeDay": "88.67%",
     "uptimeWeek": "94.50%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "96.55%",
+    "uptimeMonth": "93.93%",
+    "uptimeYear": "96.56%",
     "time": 1553,
     "timeDay": 1513,
     "timeWeek": 2152,
-    "timeMonth": 1698,
+    "timeMonth": 1701,
     "timeYear": 1553,
     "dailyMinutesDown": {
       "2022-04-18": 119,
@@ -634,7 +636,7 @@
     "timeMonth": 3711,
     "timeYear": 2889,
     "dailyMinutesDown": {
-      "2022-04-18": 326,
+      "2022-04-18": 513,
       "2022-04-17": 1440,
       "2022-04-16": 1440,
       "2022-04-15": 1440,
