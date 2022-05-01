@@ -495,19 +495,19 @@
     "url": "https://www.megaconstruct.ro",
     "icon": "https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg",
     "slug": "mega-construct",
-    "status": "up",
-    "uptime": "97.11%",
-    "uptimeDay": "93.60%",
+    "status": "down",
+    "uptime": "97.12%",
+    "uptimeDay": "93.69%",
     "uptimeWeek": "93.46%",
     "uptimeMonth": "94.73%",
-    "uptimeYear": "97.11%",
+    "uptimeYear": "97.12%",
     "time": 1536,
     "timeDay": 1224,
     "timeWeek": 1504,
     "timeMonth": 1651,
     "timeYear": 1536,
     "dailyMinutesDown": {
-      "2022-05-01": 33,
+      "2022-05-01": 34,
       "2022-04-30": 172,
       "2022-04-29": 35,
       "2022-04-28": 79,
@@ -544,7 +544,7 @@
       "2022-03-27": 33,
       "2022-03-26": 105,
       "2022-03-25": 106,
-      "2022-03-24": 82
+      "2022-03-24": 67
     }
   },
   {
@@ -654,7 +654,7 @@
     "timeMonth": 3845,
     "timeYear": 2860,
     "dailyMinutesDown": {
-      "2022-05-01": 588,
+      "2022-05-01": 629,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
       "2022-04-28": 1440,
