@@ -1,7 +1,7 @@
 url: https://b2b.globstar.ro
-status: up
-code: 200
-responseTime: 1760
-lastUpdated: 2022-05-11T23:12:11.164Z
+status: down
+code: 503
+responseTime: 12690
+lastUpdated: 2022-05-12T08:44:23.608Z
 startTime: Sun Feb 13 2022 10:11:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
