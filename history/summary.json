@@ -452,19 +452,19 @@
     "url": "https://k-m.com",
     "icon": "https://k-m.com/app/uploads/2016/05/logo.svg",
     "slug": "km-digital",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 480,
-    "timeWeek": 432,
-    "timeMonth": 444,
-    "timeYear": 383,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 393,
+    "timeDay": 1110,
+    "timeWeek": 619,
+    "timeMonth": 492,
+    "timeYear": 393,
     "dailyMinutesDown": {
-      "2022-06-13": 1
+      "2022-06-13": 10
     }
   },
   {
@@ -693,7 +693,7 @@
     "timeMonth": 2374,
     "timeYear": 2741,
     "dailyMinutesDown": {
-      "2022-06-13": 1427,
+      "2022-06-13": 1437,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
