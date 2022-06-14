@@ -115,10 +115,10 @@
     "url": "https://admin.xtelecom.ro/login",
     "icon": "https://favicons.githubusercontent.com/admin.xtelecom.ro",
     "slug": "xtelecom-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1100,
@@ -127,6 +127,7 @@
     "timeMonth": 997,
     "timeYear": 1100,
     "dailyMinutesDown": {
+      "2022-06-14": 1,
       "2022-04-18": 18
     }
   },
@@ -135,10 +136,10 @@
     "url": "https://ronet.xtelecom.ro/",
     "icon": "https://ronet.xtelecom.ro/imagini/xtelecom.png",
     "slug": "ro-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 827,
@@ -147,6 +148,7 @@
     "timeMonth": 784,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2022-06-14": 1,
       "2022-03-17": 19,
       "2022-03-14": 73,
       "2022-03-01": 56,
@@ -533,18 +535,18 @@
     "icon": "https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg",
     "slug": "mega-construct",
     "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "94.64%",
-    "uptimeYear": "98.16%",
+    "uptime": "98.14%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "94.67%",
+    "uptimeYear": "98.14%",
     "time": 1530,
     "timeDay": 991,
     "timeWeek": 1118,
     "timeMonth": 1594,
     "timeYear": 1530,
     "dailyMinutesDown": {
-      "2022-06-14": 29,
+      "2022-06-14": 17,
       "2022-06-13": 57,
       "2022-06-11": 60,
       "2022-06-10": 62,
@@ -578,7 +580,7 @@
       "2022-05-09": 204,
       "2022-05-08": 79,
       "2022-05-07": 68,
-      "2022-05-06": 45
+      "2022-05-06": 79
     }
   },
   {
@@ -691,7 +693,7 @@
     "timeMonth": 2374,
     "timeYear": 2741,
     "dailyMinutesDown": {
-      "2022-06-14": 1143,
+      "2022-06-14": 1164,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
