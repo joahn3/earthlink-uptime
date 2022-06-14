@@ -453,19 +453,17 @@
     "icon": "https://k-m.com/app/uploads/2016/05/logo.svg",
     "slug": "km-digital",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 393,
     "timeDay": 1110,
     "timeWeek": 619,
     "timeMonth": 492,
     "timeYear": 393,
-    "dailyMinutesDown": {
-      "2022-06-13": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secom",
@@ -541,7 +539,7 @@
     "uptimeMonth": "94.71%",
     "uptimeYear": "98.13%",
     "time": 1533,
-    "timeDay": 1111,
+    "timeDay": 994,
     "timeWeek": 1240,
     "timeMonth": 1610,
     "timeYear": 1533,
@@ -693,7 +691,8 @@
     "timeMonth": 2374,
     "timeYear": 2741,
     "dailyMinutesDown": {
-      "2022-06-13": 1437,
+      "2022-06-14": 123,
+      "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
