@@ -579,10 +579,10 @@
     "url": "https://www.miba.ro",
     "icon": "https://www.miba.ro/img/logo.png",
     "slug": "miba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1107,
@@ -591,6 +591,7 @@
     "timeMonth": 1015,
     "timeYear": 1107,
     "dailyMinutesDown": {
+      "2022-08-02": 1,
       "2022-06-06": 21
     }
   },
@@ -601,13 +602,13 @@
     "slug": "mega-construct",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "89.58%",
+    "uptimeDay": "90.92%",
     "uptimeWeek": "90.97%",
     "uptimeMonth": "93.54%",
     "uptimeYear": "98.73%",
     "time": 1539,
-    "timeDay": 1665,
-    "timeWeek": 1564,
+    "timeDay": 1826,
+    "timeWeek": 1572,
     "timeMonth": 1663,
     "timeYear": 1539,
     "dailyMinutesDown": {
@@ -758,7 +759,7 @@
     "timeMonth": 2435,
     "timeYear": 2670,
     "dailyMinutesDown": {
-      "2022-08-02": 511,
+      "2022-08-02": 553,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
