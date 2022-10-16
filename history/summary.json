@@ -451,11 +451,11 @@
     "icon": "https://app.ceisales.com/images/logo.svg",
     "slug": "cei-sales-app",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "98.22%",
+    "uptimeYear": "98.23%",
     "time": 198,
     "timeDay": 0,
     "timeWeek": 247,
@@ -666,11 +666,11 @@
     "url": "https://www.megaconstruct.ro",
     "icon": "https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg",
     "slug": "mega-construct",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "94.39%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "95.23%",
+    "uptimeMonth": "94.62%",
     "uptimeYear": "98.99%",
     "time": 1525,
     "timeDay": 4132,
@@ -678,6 +678,7 @@
     "timeMonth": 1550,
     "timeYear": 1525,
     "dailyMinutesDown": {
+      "2022-10-16": 1,
       "2022-10-15": 34,
       "2022-10-14": 197,
       "2022-10-13": 123,
@@ -714,7 +715,7 @@
       "2022-09-08": 157,
       "2022-09-07": 63,
       "2022-09-06": 255,
-      "2022-09-05": 59
+      "2022-09-05": 29
     }
   },
   {
@@ -843,7 +844,7 @@
     "timeMonth": 2541,
     "timeYear": 2706,
     "dailyMinutesDown": {
-      "2022-10-16": 190,
+      "2022-10-16": 289,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
       "2022-10-13": 1440,
