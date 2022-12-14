@@ -697,10 +697,10 @@
     "url": "https://www.megaconstruct.ro",
     "icon": "https://www.megaconstruct.ro/wp-content/uploads/2016/06/final-logo.jpg",
     "slug": "mega-construct",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "98.79%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "98.78%",
     "uptimeMonth": "95.41%",
     "uptimeYear": "99.15%",
     "time": 1558,
@@ -709,7 +709,7 @@
     "timeMonth": 1489,
     "timeYear": 1558,
     "dailyMinutesDown": {
-      "2022-12-14": 86,
+      "2022-12-14": 87,
       "2022-12-11": 17,
       "2022-12-10": 19,
       "2022-12-05": 28,
@@ -757,7 +757,7 @@
       "2022-10-17": 36,
       "2022-10-16": 121,
       "2022-10-15": 34,
-      "2022-10-14": 126
+      "2022-10-14": 110
     }
   },
   {
@@ -889,11 +889,11 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "11.76%",
+    "uptime": "11.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.76%",
+    "uptimeYear": "11.77%",
     "time": 2575,
     "timeDay": 1426,
     "timeWeek": 1504,
