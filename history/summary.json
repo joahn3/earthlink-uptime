@@ -655,10 +655,10 @@
     "url": "https://www.blt.ro",
     "icon": "https://www.blt.ro/_res/media/media-generala/favicon-blt3.png",
     "slug": "blt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 2611,
@@ -667,6 +667,7 @@
     "timeMonth": 2649,
     "timeYear": 2611,
     "dailyMinutesDown": {
+      "2023-01-20": 1,
       "2022-12-17": 26,
       "2022-11-02": 25,
       "2022-10-21": 26,
@@ -714,9 +715,9 @@
     "slug": "mega-construct",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "96.14%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "97.09%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "97.12%",
     "uptimeYear": "99.28%",
     "time": 1602,
     "timeDay": 1530,
@@ -724,7 +725,7 @@
     "timeMonth": 1945,
     "timeYear": 1602,
     "dailyMinutesDown": {
-      "2023-01-20": 55,
+      "2023-01-20": 43,
       "2023-01-18": 25,
       "2023-01-17": 65,
       "2023-01-16": 112,
@@ -772,7 +773,8 @@
       "2022-11-19": 101,
       "2022-11-18": 40,
       "2022-11-17": 55,
-      "2022-11-16": 21
+      "2022-11-16": 21,
+      "2022-11-15": 21
     }
   },
   {
