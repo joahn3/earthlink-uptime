@@ -714,9 +714,9 @@
     "slug": "mega-construct",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "96.61%",
-    "uptimeMonth": "97.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "97.06%",
     "uptimeYear": "99.28%",
     "time": 1602,
     "timeDay": 1274,
@@ -724,7 +724,6 @@
     "timeMonth": 1923,
     "timeYear": 1602,
     "dailyMinutesDown": {
-      "2023-01-19": 11,
       "2023-01-18": 25,
       "2023-01-17": 65,
       "2023-01-16": 112,
@@ -774,7 +773,7 @@
       "2022-11-17": 55,
       "2022-11-16": 21,
       "2022-11-15": 21,
-      "2022-11-14": 27
+      "2022-11-14": 42
     }
   },
   {
@@ -914,11 +913,11 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "21.19%",
+    "uptime": "21.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.19%",
+    "uptimeYear": "21.21%",
     "time": 2467,
     "timeDay": 1324,
     "timeWeek": 1488,
