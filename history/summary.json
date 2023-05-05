@@ -773,10 +773,10 @@
     "url": "https://www.felixtelecom.ro",
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "87.63%",
-    "uptimeWeek": "98.23%",
+    "uptimeDay": "87.56%",
+    "uptimeWeek": "98.22%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.18%",
     "time": 3721,
@@ -785,7 +785,7 @@
     "timeMonth": 2917,
     "timeYear": 3911,
     "dailyMinutesDown": {
-      "2023-05-05": 176,
+      "2023-05-05": 177,
       "2023-05-04": 3,
       "2023-04-26": 21,
       "2023-03-27": 17,
@@ -826,7 +826,7 @@
       "2022-10-10": 62,
       "2022-10-07": 17,
       "2022-09-05": 23,
-      "2022-08-08": 80
+      "2022-08-08": 35
     }
   },
   {
@@ -884,11 +884,11 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "39.74%",
+    "uptime": "39.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.56%",
+    "uptimeYear": "48.57%",
     "time": 2274,
     "timeDay": 1497,
     "timeWeek": 1734,
