@@ -382,7 +382,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.09%",
     "time": 322,
     "timeDay": 539,
     "timeWeek": 394,
@@ -450,8 +450,7 @@
       "2022-07-22": 29,
       "2022-07-21": 31,
       "2022-07-16": 21,
-      "2022-07-13": 26,
-      "2022-07-04": 417
+      "2022-07-13": 26
     }
   },
   {
@@ -464,7 +463,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.20%",
     "time": 200,
     "timeDay": 343,
     "timeWeek": 236,
@@ -507,8 +506,7 @@
       "2022-07-28": 29,
       "2022-07-27": 34,
       "2022-07-16": 20,
-      "2022-07-13": 24,
-      "2022-07-04": 417
+      "2022-07-13": 24
     }
   },
   {
@@ -521,7 +519,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.81%",
     "time": 179,
     "timeDay": 252,
     "timeWeek": 196,
@@ -550,8 +548,7 @@
       "2022-07-28": 28,
       "2022-07-27": 32,
       "2022-07-16": 18,
-      "2022-07-13": 23,
-      "2022-07-04": 417
+      "2022-07-13": 23
     }
   },
   {
@@ -661,7 +658,7 @@
     "timeDay": 1297,
     "timeWeek": 1505,
     "timeMonth": 1183,
-    "timeYear": 1635,
+    "timeYear": 1636,
     "dailyMinutesDown": {
       "2023-02-19": 698,
       "2023-02-18": 1378,
@@ -749,12 +746,12 @@
     "slug": "felix-telecom",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "54.55%",
+    "uptimeDay": "54.61%",
     "uptimeWeek": "93.51%",
-    "uptimeMonth": "95.22%",
+    "uptimeMonth": "95.49%",
     "uptimeYear": "98.87%",
     "time": 3721,
-    "timeDay": 4749,
+    "timeDay": 4919,
     "timeWeek": 4214,
     "timeMonth": 3408,
     "timeYear": 3890,
@@ -853,11 +850,11 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "46.84%",
+    "uptime": "46.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "64.90%",
+    "uptimeYear": "64.93%",
     "time": 2204,
     "timeDay": 2129,
     "timeWeek": 1659,
@@ -996,8 +993,7 @@
       "2022-07-08": 1440,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
-      "2022-07-05": 1440,
-      "2022-07-04": 1440
+      "2022-07-05": 1440
     }
   },
   {
