@@ -700,18 +700,19 @@
     "url": "https://www.felixtelecom.ro",
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "98.05%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.04%",
     "uptimeMonth": "98.56%",
-    "uptimeYear": "98.53%",
-    "time": 3702,
-    "timeDay": 919,
+    "uptimeYear": "98.54%",
+    "time": 3700,
+    "timeDay": 776,
     "timeWeek": 3002,
     "timeMonth": 3142,
     "timeYear": 3672,
     "dailyMinutesDown": {
+      "2023-11-18": 1,
       "2023-11-17": 104,
       "2023-11-16": 93,
       "2023-11-03": 146,
@@ -756,7 +757,7 @@
       "2023-01-16": 466,
       "2023-01-14": 26,
       "2023-01-09": 141,
-      "2023-01-08": 50
+      "2023-01-08": 16
     }
   },
   {
