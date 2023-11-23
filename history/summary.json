@@ -771,19 +771,19 @@
     "url": "https://paicucons.ro",
     "icon": "https://paicucons.ro/wp-content/themes/paicu/inc/assets/images/logo-dark.png",
     "slug": "paicu-and-sons-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 919,
-    "timeDay": 879,
+    "timeDay": 889,
     "timeWeek": 897,
-    "timeMonth": 932,
+    "timeMonth": 931,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2023-11-23": 1
+      "2023-11-23": 18
     }
   },
   {
