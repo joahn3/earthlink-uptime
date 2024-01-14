@@ -1,7 +1,7 @@
 url: https://wiki.ceisales.com/login
-status: up
-code: 200
-responseTime: 68
-lastUpdated: 2024-01-13T23:09:31.995Z
+status: down
+code: 500
+responseTime: 178
+lastUpdated: 2024-01-14T05:14:36.027Z
 startTime: 2022-02-13T07:40:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
