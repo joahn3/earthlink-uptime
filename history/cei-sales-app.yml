@@ -1,7 +1,7 @@
 url: https://app.ceisales.com/login
-status: down
-code: 500
-responseTime: 382
-lastUpdated: 2024-07-09T05:12:16.639Z
+status: up
+code: 200
+responseTime: 84
+lastUpdated: 2024-07-09T05:30:13.326Z
 startTime: 2022-02-13T07:40:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
