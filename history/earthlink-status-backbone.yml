@@ -1,7 +1,7 @@
 url: status-backbone.earthlink.ro
-status: down
-code: 500
-responseTime: 970
-lastUpdated: 2024-08-27T18:38:29.445Z
+status: up
+code: 200
+responseTime: 816
+lastUpdated: 2024-08-27T19:33:46.089Z
 startTime: 2022-02-13T10:09:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
