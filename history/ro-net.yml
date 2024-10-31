@@ -1,7 +1,7 @@
 url: https://ronet.xtelecom.ro/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-31T21:55:07.535Z
+status: up
+code: 200
+responseTime: 745
+lastUpdated: 2024-10-31T22:17:10.719Z
 startTime: 2022-02-13T10:09:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
