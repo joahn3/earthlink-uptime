@@ -228,18 +228,18 @@
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.01%",
-    "uptimeYear": "95.95%",
+    "uptimeMonth": "53.51%",
+    "uptimeYear": "95.90%",
     "time": 1673,
     "timeDay": 4707,
     "timeWeek": 2467,
     "timeMonth": 1831,
     "timeYear": 1591,
     "dailyMinutesDown": {
-      "2025-01-27": 96,
+      "2025-01-27": 315,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -387,11 +387,11 @@
     "url": "https://ceisales.com",
     "icon": "https://ceisales.com/favicons/favicon.ico",
     "slug": "cei-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "98.59%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.36%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.65%",
     "time": 378,
     "timeDay": 260,
@@ -399,6 +399,7 @@
     "timeMonth": 344,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2025-01-27": 4,
       "2025-01-26": 17,
       "2025-01-24": 17,
       "2025-01-23": 15,
@@ -497,8 +498,7 @@
       "2024-07-31": 18,
       "2024-07-30": 19,
       "2024-07-27": 16,
-      "2024-07-24": 20,
-      "2024-07-21": 19
+      "2024-07-24": 20
     }
   },
   {
@@ -506,18 +506,19 @@
     "url": "https://app.ceisales.com/login",
     "icon": "https://app.ceisales.com/images/logo.svg",
     "slug": "cei-sales-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.92%",
+    "uptimeDay": "98.75%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 193,
     "timeDay": 129,
     "timeWeek": 204,
     "timeMonth": 196,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2025-01-27": 2,
       "2025-01-26": 16,
       "2025-01-24": 17,
       "2025-01-22": 19,
@@ -616,8 +617,7 @@
       "2024-07-15": 17,
       "2024-07-12": 16,
       "2024-07-10": 15,
-      "2024-07-09": 18,
-      "2024-07-08": 19
+      "2024-07-09": 18
     }
   },
   {
@@ -625,18 +625,19 @@
     "url": "https://wiki.ceisales.com/login",
     "icon": "https://wiki.ceisales.com/vendor/wiki/icon.png",
     "slug": "cei-sales-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.93%",
     "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.67%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.68%",
     "time": 219,
     "timeDay": 115,
     "timeWeek": 202,
     "timeMonth": 197,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2025-01-27": 1,
       "2025-01-24": 17,
       "2025-01-22": 17,
       "2025-01-20": 17,
@@ -735,8 +736,7 @@
       "2024-06-25": 17,
       "2024-06-19": 20,
       "2024-06-16": 15,
-      "2024-06-14": 15,
-      "2024-06-12": 15
+      "2024-06-14": 15
     }
   },
   {
@@ -898,7 +898,7 @@
     "uptimeYear": "98.94%",
     "time": 2741,
     "timeDay": 930,
-    "timeWeek": 3827,
+    "timeWeek": 3964,
     "timeMonth": 3360,
     "timeYear": 2949,
     "dailyMinutesDown": {
