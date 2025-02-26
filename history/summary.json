@@ -227,7 +227,7 @@
     "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "30.06%",
+    "uptimeMonth": "30.56%",
     "uptimeYear": "90.40%",
     "time": 1667,
     "timeDay": 1378,
@@ -397,10 +397,10 @@
     "url": "https://ceisales.com",
     "icon": "https://ceisales.com/favicons/favicon.ico",
     "slug": "cei-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.65%",
     "time": 375,
@@ -409,6 +409,7 @@
     "timeMonth": 327,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2025-02-26": 3,
       "2025-02-25": 17,
       "2025-02-20": 16,
       "2025-02-16": 15,
@@ -507,8 +508,7 @@
       "2024-08-29": 23,
       "2024-08-26": 16,
       "2024-08-25": 19,
-      "2024-08-23": 16,
-      "2024-08-22": 19
+      "2024-08-23": 16
     }
   },
   {
@@ -516,18 +516,19 @@
     "url": "https://app.ceisales.com/login",
     "icon": "https://app.ceisales.com/images/logo.svg",
     "slug": "cei-sales-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 193,
     "timeDay": 93,
     "timeWeek": 161,
     "timeMonth": 177,
     "timeYear": 196,
     "dailyMinutesDown": {
+      "2025-02-26": 2,
       "2025-02-25": 17,
       "2025-02-21": 21,
       "2025-02-15": 15,
@@ -626,8 +627,7 @@
       "2024-08-12": 16,
       "2024-08-09": 16,
       "2024-08-08": 21,
-      "2024-08-07": 16,
-      "2024-08-02": 19
+      "2024-08-07": 16
     }
   },
   {
@@ -635,18 +635,19 @@
     "url": "https://wiki.ceisales.com/login",
     "icon": "https://wiki.ceisales.com/vendor/wiki/icon.png",
     "slug": "cei-sales-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.68%",
     "time": 215,
-    "timeDay": 132,
-    "timeWeek": 161,
-    "timeMonth": 171,
+    "timeDay": 190,
+    "timeWeek": 181,
+    "timeMonth": 175,
     "timeYear": 223,
     "dailyMinutesDown": {
+      "2025-02-26": 2,
       "2025-02-25": 17,
       "2025-02-14": 16,
       "2025-02-13": 15,
@@ -745,8 +746,7 @@
       "2024-07-19": 18,
       "2024-07-18": 17,
       "2024-07-15": 17,
-      "2024-07-12": 16,
-      "2024-07-10": 15
+      "2024-07-12": 16
     }
   },
   {
@@ -1027,7 +1027,7 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "75.74%",
+    "uptime": "75.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
