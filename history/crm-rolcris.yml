@@ -1,7 +1,7 @@
 url: https://crm.rolcris.ro/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-03T17:24:50.076Z
+status: up
+code: 200
+responseTime: 1107
+lastUpdated: 2025-03-03T17:38:59.277Z
 startTime: 2022-02-13T09:18:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
