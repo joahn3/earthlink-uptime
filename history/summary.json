@@ -404,10 +404,10 @@
     "url": "https://ceisales.com",
     "icon": "https://ceisales.com/favicons/favicon.ico",
     "slug": "cei-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.07%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.03%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.65%",
     "time": 371,
@@ -416,6 +416,7 @@
     "timeMonth": 359,
     "timeYear": 379,
     "dailyMinutesDown": {
+      "2025-04-02": 3,
       "2025-04-01": 20,
       "2025-03-30": 17,
       "2025-03-29": 17,
@@ -514,8 +515,7 @@
       "2024-09-24": 18,
       "2024-09-19": 21,
       "2024-09-18": 21,
-      "2024-09-17": 18,
-      "2024-09-15": 16
+      "2024-09-17": 18
     }
   },
   {
@@ -523,10 +523,10 @@
     "url": "https://app.ceisales.com/login",
     "icon": "https://app.ceisales.com/images/logo.svg",
     "slug": "cei-sales-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.08%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.06%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.66%",
     "time": 194,
@@ -535,6 +535,7 @@
     "timeMonth": 190,
     "timeYear": 196,
     "dailyMinutesDown": {
+      "2025-04-02": 2,
       "2025-04-01": 19,
       "2025-03-30": 17,
       "2025-03-29": 17,
@@ -633,8 +634,7 @@
       "2024-09-07": 15,
       "2024-09-06": 20,
       "2024-09-05": 17,
-      "2024-09-04": 17,
-      "2024-09-03": 17
+      "2024-09-04": 17
     }
   },
   {
@@ -644,7 +644,7 @@
     "slug": "cei-sales-wiki",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.78%",
+    "uptimeDay": "98.99%",
     "uptimeWeek": "99.09%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.67%",
@@ -1039,7 +1039,7 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "76.48%",
+    "uptime": "76.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
