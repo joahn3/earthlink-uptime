@@ -402,10 +402,10 @@
     "url": "https://ceisales.com",
     "icon": "https://ceisales.com/favicons/favicon.ico",
     "slug": "cei-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.65%",
     "time": 370,
@@ -414,6 +414,7 @@
     "timeMonth": 351,
     "timeYear": 380,
     "dailyMinutesDown": {
+      "2025-04-07": 2,
       "2025-04-05": 20,
       "2025-04-04": 19,
       "2025-04-03": 18,
@@ -512,8 +513,7 @@
       "2024-10-01": 20,
       "2024-09-30": 18,
       "2024-09-29": 16,
-      "2024-09-28": 18,
-      "2024-09-24": 18
+      "2024-09-28": 18
     }
   },
   {
@@ -521,11 +521,11 @@
     "url": "https://app.ceisales.com/login",
     "icon": "https://app.ceisales.com/images/logo.svg",
     "slug": "cei-sales-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.66%",
     "time": 195,
     "timeDay": 162,
@@ -533,6 +533,7 @@
     "timeMonth": 187,
     "timeYear": 197,
     "dailyMinutesDown": {
+      "2025-04-07": 1,
       "2025-04-05": 18,
       "2025-04-04": 19,
       "2025-04-03": 17,
@@ -631,8 +632,7 @@
       "2024-09-11": 18,
       "2024-09-10": 17,
       "2024-09-09": 19,
-      "2024-09-08": 16,
-      "2024-09-07": 15
+      "2024-09-08": 16
     }
   },
   {
@@ -640,18 +640,19 @@
     "url": "https://wiki.ceisales.com/login",
     "icon": "https://wiki.ceisales.com/vendor/wiki/icon.png",
     "slug": "cei-sales-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 214,
-    "timeDay": 105,
-    "timeWeek": 155,
+    "timeDay": 166,
+    "timeWeek": 160,
     "timeMonth": 175,
     "timeYear": 225,
     "dailyMinutesDown": {
+      "2025-04-07": 1,
       "2025-04-05": 17,
       "2025-04-04": 19,
       "2025-04-03": 17,
@@ -750,8 +751,7 @@
       "2024-08-26": 16,
       "2024-08-25": 19,
       "2024-08-23": 16,
-      "2024-08-22": 19,
-      "2024-08-21": 17
+      "2024-08-22": 19
     }
   },
   {
@@ -911,7 +911,7 @@
     "status": "up",
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.29%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "96.30%",
     "uptimeYear": "98.68%",
     "time": 2916,
