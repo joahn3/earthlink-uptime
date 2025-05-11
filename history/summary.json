@@ -398,18 +398,19 @@
     "url": "https://ceisales.com",
     "icon": "https://ceisales.com/favicons/favicon.ico",
     "slug": "cei-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.12%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 376,
     "timeDay": 548,
     "timeWeek": 379,
     "timeMonth": 362,
     "timeYear": 383,
     "dailyMinutesDown": {
+      "2025-05-11": 1,
       "2025-05-10": 25,
       "2025-05-09": 21,
       "2025-05-07": 22,
@@ -508,8 +509,7 @@
       "2024-11-06": 17,
       "2024-11-04": 20,
       "2024-11-03": 20,
-      "2024-11-02": 16,
-      "2024-10-31": 21
+      "2024-11-02": 16
     }
   },
   {
@@ -517,18 +517,19 @@
     "url": "https://app.ceisales.com/login",
     "icon": "https://app.ceisales.com/images/logo.svg",
     "slug": "cei-sales-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.15%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.66%",
     "time": 197,
     "timeDay": 317,
     "timeWeek": 201,
     "timeMonth": 204,
     "timeYear": 198,
     "dailyMinutesDown": {
+      "2025-05-11": 1,
       "2025-05-10": 24,
       "2025-05-09": 21,
       "2025-05-07": 21,
@@ -627,8 +628,7 @@
       "2024-10-15": 20,
       "2024-10-13": 16,
       "2024-10-12": 20,
-      "2024-10-07": 18,
-      "2024-10-05": 17
+      "2024-10-07": 18
     }
   },
   {
@@ -636,18 +636,19 @@
     "url": "https://wiki.ceisales.com/login",
     "icon": "https://wiki.ceisales.com/vendor/wiki/icon.png",
     "slug": "cei-sales-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.18%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.17%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.67%",
     "time": 217,
-    "timeDay": 279,
-    "timeWeek": 210,
+    "timeDay": 251,
+    "timeWeek": 209,
     "timeMonth": 191,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2025-05-11": 1,
       "2025-05-10": 22,
       "2025-05-09": 21,
       "2025-05-07": 19,
@@ -746,8 +747,7 @@
       "2024-09-17": 15,
       "2024-09-15": 15,
       "2024-09-14": 19,
-      "2024-09-11": 18,
-      "2024-09-10": 15
+      "2024-09-11": 18
     }
   },
   {
@@ -905,7 +905,7 @@
     "slug": "felix-telecom",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "80.53%",
+    "uptimeDay": "89.04%",
     "uptimeWeek": "95.72%",
     "uptimeMonth": "96.70%",
     "uptimeYear": "98.48%",
