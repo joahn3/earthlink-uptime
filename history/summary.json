@@ -921,10 +921,10 @@
     "url": "https://www.felixtelecom.ro",
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "80.39%",
-    "uptimeWeek": "93.44%",
+    "uptimeDay": "81.23%",
+    "uptimeWeek": "93.42%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "98.47%",
     "time": 3239,
@@ -933,7 +933,7 @@
     "timeMonth": 4179,
     "timeYear": 3221,
     "dailyMinutesDown": {
-      "2025-06-15": 261,
+      "2025-06-15": 262,
       "2025-06-14": 362,
       "2025-06-13": 16,
       "2025-06-12": 23,
@@ -990,7 +990,7 @@
       "2024-10-05": 84,
       "2024-09-28": 85,
       "2024-09-27": 37,
-      "2024-09-22": 75
+      "2024-09-22": 42
     }
   },
   {
