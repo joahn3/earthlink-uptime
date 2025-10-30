@@ -365,7 +365,7 @@
     "timeMonth": 0,
     "timeYear": 3537,
     "dailyMinutesDown": {
-      "2025-10-30": 1048,
+      "2025-10-30": 1066,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -501,7 +501,7 @@
     "timeMonth": 0,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2025-10-30": 1048,
+      "2025-10-30": 1066,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -660,7 +660,7 @@
     "slug": "cei-sales",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "32.93%",
+    "uptimeDay": "34.14%",
     "uptimeWeek": "86.37%",
     "uptimeMonth": "96.22%",
     "uptimeYear": "99.28%",
@@ -1171,19 +1171,19 @@
     "url": "https://www.felixtelecom.ro",
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "89.27%",
-    "uptimeWeek": "93.17%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "98.60%",
-    "time": 3431,
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "89.19%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "98.63%",
+    "time": 3434,
     "timeDay": 3386,
     "timeWeek": 3855,
     "timeMonth": 3465,
     "timeYear": 3541,
     "dailyMinutesDown": {
-      "2025-10-30": 149,
+      "2025-10-30": 150,
       "2025-10-29": 5,
       "2025-10-27": 178,
       "2025-10-26": 334,
@@ -1238,8 +1238,7 @@
       "2025-04-22": 514,
       "2025-04-20": 19,
       "2025-03-31": 381,
-      "2025-03-30": 409,
-      "2025-03-26": 133
+      "2025-03-30": 409
     }
   },
   {
@@ -1410,7 +1409,7 @@
     "timeMonth": 274,
     "timeYear": 1791,
     "dailyMinutesDown": {
-      "2025-10-30": 1049,
+      "2025-10-30": 1067,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
