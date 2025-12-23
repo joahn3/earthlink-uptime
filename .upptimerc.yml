@@ -40,12 +40,6 @@ sites:
   - name: Rolcris
     url: https://rolcris.ro
     icon: https://www.rolcris.ro/favicons/favicon.ico
-  - name: Rolcris ERP
-    url: https://erp.rolcris.ro
-    icon: https://www.rolcris.ro/favicons/favicon.ico
-  - name: CRM Rolcris
-    url: https://crm.rolcris.ro/login
-    icon: https://crm.rolcris.ro/images/logo.svg
   - name: CEI Sales
     url: https://ceisales.com
     icon: https://ceisales.com/favicons/favicon.ico
@@ -89,9 +83,6 @@ sites:
     __dangerous__insecure: true
     maxResponseTime: 20000
     icon: https://globstar.ro/img/dor-bionic-logo-1574507922.jpg
-  - name: Ted Electric EU
-    url: https://www.tedelectric.eu
-    icon: https://www.tedelectric.eu/lay/ted-top/ted_top_r1_c1.png
   - name: GP Batteries
     url: https://www.gpbatteries.ro
     icon: https://www.globstar.ro/img/dor-bionic-logo-1574507922.jpg
