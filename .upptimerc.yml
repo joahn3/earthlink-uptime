@@ -5,10 +5,10 @@ user-agent: joahn3
 
 sites:
   - name: solarlink
-    url: https://www.solarlink.ro
+    url: https://solarlink.ro
     icon: https://solarlink.ro/build/assets/solarlink_logo-7db92c46.svg
   - name: earthlink
-    url: https://www.earthlink.ro
+    url: https://earthlink.ro
     icon: https://earthlink.ro/favico.png
   - name: GitLab xtelecom
     url: https://git.xtelecom.ro
