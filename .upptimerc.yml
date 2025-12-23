@@ -4,6 +4,9 @@ repo: earthlink-uptime # The name of this repository
 user-agent: joahn3
 
 sites:
+  - name: solarlink
+    url: https://www.solarlink.ro
+    icon: https://solarlink.ro/build/assets/solarlink_logo-7db92c46.svg
   - name: earthlink
     url: https://www.earthlink.ro
     icon: https://earthlink.ro/favico.png
