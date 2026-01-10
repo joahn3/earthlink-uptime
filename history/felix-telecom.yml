@@ -1,7 +1,7 @@
 url: https://www.felixtelecom.ro
-status: up
-code: 200
-responseTime: 1422
-lastUpdated: 2026-01-09T23:15:37.271Z
+status: down
+code: 415
+responseTime: 1118
+lastUpdated: 2026-01-10T22:31:14.186Z
 startTime: 2022-02-13T06:55:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
