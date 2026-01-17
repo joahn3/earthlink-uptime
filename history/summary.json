@@ -278,19 +278,19 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "81.38%",
-    "uptimeWeek": "77.53%",
-    "uptimeMonth": "90.85%",
+    "uptimeDay": "81.47%",
+    "uptimeWeek": "77.59%",
+    "uptimeMonth": "90.90%",
     "uptimeYear": "99.24%",
-    "time": 1623,
+    "time": 1624,
     "timeDay": 1904,
-    "timeWeek": 1740,
+    "timeWeek": 1742,
     "timeMonth": 1650,
     "timeYear": 1616,
     "dailyMinutesDown": {
-      "2026-01-17": 110,
+      "2026-01-17": 111,
       "2026-01-16": 437,
       "2026-01-15": 339,
       "2026-01-14": 223,
@@ -303,7 +303,7 @@
       "2026-01-07": 177,
       "2026-01-06": 162,
       "2026-01-05": 398,
-      "2026-01-04": 65
+      "2026-01-04": 43
     }
   },
   {
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 3544,
     "dailyMinutesDown": {
-      "2026-01-17": 877,
+      "2026-01-17": 891,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -1289,7 +1289,7 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "78.76%",
+    "uptime": "78.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.01%",
