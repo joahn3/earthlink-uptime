@@ -13,7 +13,7 @@
     "time": 1518,
     "timeDay": 1399,
     "timeWeek": 1417,
-    "timeMonth": 1518,
+    "timeMonth": 1456,
     "timeYear": 1518,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1785,
     "timeDay": 742,
     "timeWeek": 869,
-    "timeMonth": 872,
+    "timeMonth": 831,
     "timeYear": 1764,
     "dailyMinutesDown": {
       "2025-12-31": 696,
@@ -58,7 +58,7 @@
     "time": 1262,
     "timeDay": 1278,
     "timeWeek": 1178,
-    "timeMonth": 1135,
+    "timeMonth": 1133,
     "timeYear": 1257,
     "dailyMinutesDown": {
       "2026-01-02": 21,
@@ -91,7 +91,7 @@
     "time": 866,
     "timeDay": 763,
     "timeWeek": 776,
-    "timeMonth": 866,
+    "timeMonth": 875,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2026-01-23": 31,
@@ -141,7 +141,7 @@
     "time": 1115,
     "timeDay": 919,
     "timeWeek": 980,
-    "timeMonth": 1127,
+    "timeMonth": 1134,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2026-01-18": 27,
@@ -189,7 +189,7 @@
     "time": 1148,
     "timeDay": 1062,
     "timeWeek": 1093,
-    "timeMonth": 1048,
+    "timeMonth": 1038,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2025-12-22": 49,
@@ -217,7 +217,7 @@
     "time": 1011,
     "timeDay": 1079,
     "timeWeek": 968,
-    "timeMonth": 980,
+    "timeMonth": 974,
     "timeYear": 1016,
     "dailyMinutesDown": {
       "2025-12-22": 68,
@@ -244,7 +244,7 @@
     "time": 1574,
     "timeDay": 1639,
     "timeWeek": 1531,
-    "timeMonth": 1500,
+    "timeMonth": 1485,
     "timeYear": 1578,
     "dailyMinutesDown": {
       "2025-12-22": 49,
@@ -267,7 +267,7 @@
     "time": 1015,
     "timeDay": 1101,
     "timeWeek": 1024,
-    "timeMonth": 964,
+    "timeMonth": 972,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2025-12-22": 48,
@@ -281,19 +281,19 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "73.11%",
-    "uptimeWeek": "78.10%",
-    "uptimeMonth": "89.93%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "76.08%",
+    "uptimeWeek": "78.83%",
+    "uptimeMonth": "89.99%",
+    "uptimeYear": "99.17%",
     "time": 1622,
-    "timeDay": 1629,
-    "timeWeek": 1650,
-    "timeMonth": 1645,
+    "timeDay": 1591,
+    "timeWeek": 1659,
+    "timeMonth": 1647,
     "timeYear": 1613,
     "dailyMinutesDown": {
-      "2026-01-23": 269,
+      "2026-01-23": 270,
       "2026-01-22": 447,
       "2026-01-21": 320,
       "2026-01-20": 190,
@@ -306,7 +306,7 @@
       "2026-01-13": 342,
       "2026-01-12": 324,
       "2026-01-11": 339,
-      "2026-01-10": 333
+      "2026-01-10": 308
     }
   },
   {
@@ -323,7 +323,7 @@
     "time": 423,
     "timeDay": 506,
     "timeWeek": 427,
-    "timeMonth": 433,
+    "timeMonth": 438,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2025-10-20": 25,
@@ -336,18 +336,18 @@
     "icon": "https://www.rolcris.ro/favicons/favicon.ico",
     "slug": "rolcris",
     "status": "down",
-    "uptime": "86.43%",
+    "uptime": "86.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.85%",
+    "uptimeYear": "46.83%",
     "time": 3513,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3541,
     "dailyMinutesDown": {
-      "2026-01-23": 945,
+      "2026-01-23": 1063,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -562,7 +562,7 @@
     "time": 1005,
     "timeDay": 1510,
     "timeWeek": 1559,
-    "timeMonth": 1539,
+    "timeMonth": 1550,
     "timeYear": 1137,
     "dailyMinutesDown": {
       "2026-01-23": 30,
@@ -667,7 +667,7 @@
     "time": 223,
     "timeDay": 329,
     "timeWeek": 236,
-    "timeMonth": 210,
+    "timeMonth": 209,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2026-01-23": 28,
@@ -898,7 +898,7 @@
     "time": 294,
     "timeDay": 301,
     "timeWeek": 507,
-    "timeMonth": 317,
+    "timeMonth": 322,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-12-10": 39,
@@ -920,7 +920,7 @@
     "time": 983,
     "timeDay": 446,
     "timeWeek": 758,
-    "timeMonth": 571,
+    "timeMonth": 583,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2025-12-05": 26,
@@ -942,7 +942,7 @@
     "time": 3208,
     "timeDay": 2904,
     "timeWeek": 3248,
-    "timeMonth": 2942,
+    "timeMonth": 2972,
     "timeYear": 3076,
     "dailyMinutesDown": {
       "2026-01-15": 47,
@@ -971,7 +971,7 @@
     "time": 1193,
     "timeDay": 953,
     "timeWeek": 972,
-    "timeMonth": 1076,
+    "timeMonth": 1027,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2026-01-21": 73,
@@ -1049,7 +1049,7 @@
     "time": 1205,
     "timeDay": 996,
     "timeWeek": 1304,
-    "timeMonth": 1205,
+    "timeMonth": 1214,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2026-01-01": 25,
@@ -1075,7 +1075,7 @@
     "time": 1277,
     "timeDay": 1141,
     "timeWeek": 1311,
-    "timeMonth": 1221,
+    "timeMonth": 1223,
     "timeYear": 1268,
     "dailyMinutesDown": {
       "2025-12-22": 47,
@@ -1099,7 +1099,7 @@
     "time": 3611,
     "timeDay": 1093,
     "timeWeek": 3009,
-    "timeMonth": 3245,
+    "timeMonth": 3220,
     "timeYear": 3734,
     "dailyMinutesDown": {
       "2026-01-21": 73,
@@ -1174,7 +1174,7 @@
     "time": 1026,
     "timeDay": 844,
     "timeWeek": 949,
-    "timeMonth": 942,
+    "timeMonth": 940,
     "timeYear": 1017,
     "dailyMinutesDown": {
       "2026-01-21": 73,
@@ -1254,7 +1254,7 @@
     "time": 3063,
     "timeDay": 1598,
     "timeWeek": 2042,
-    "timeMonth": 2117,
+    "timeMonth": 2120,
     "timeYear": 3248,
     "dailyMinutesDown": {
       "2026-01-05": 405,
@@ -1292,7 +1292,7 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "78.85%",
+    "uptime": "78.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1300,7 +1300,7 @@
     "time": 2855,
     "timeDay": 2765,
     "timeWeek": 2833,
-    "timeMonth": 2669,
+    "timeMonth": 2658,
     "timeYear": 2989,
     "dailyMinutesDown": {
       "2025-12-22": 146,
@@ -1366,7 +1366,7 @@
     "time": 1154,
     "timeDay": 1247,
     "timeWeek": 1263,
-    "timeMonth": 1148,
+    "timeMonth": 1147,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2025-09-28": 15,
@@ -1411,7 +1411,7 @@
     "time": 1898,
     "timeDay": 5894,
     "timeWeek": 2409,
-    "timeMonth": 2113,
+    "timeMonth": 2157,
     "timeYear": 1906,
     "dailyMinutesDown": {
       "2025-12-02": 29,
