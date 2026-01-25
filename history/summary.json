@@ -281,11 +281,11 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "74.45%",
-    "uptimeWeek": "76.48%",
-    "uptimeMonth": "89.81%",
+    "uptimeDay": "74.36%",
+    "uptimeWeek": "76.72%",
+    "uptimeMonth": "89.85%",
     "uptimeYear": "99.15%",
     "time": 1622,
     "timeDay": 1659,
@@ -293,7 +293,7 @@
     "timeMonth": 1633,
     "timeYear": 1613,
     "dailyMinutesDown": {
-      "2026-01-25": 307,
+      "2026-01-25": 308,
       "2026-01-24": 283,
       "2026-01-23": 375,
       "2026-01-22": 447,
@@ -307,7 +307,7 @@
       "2026-01-14": 223,
       "2026-01-13": 342,
       "2026-01-12": 324,
-      "2026-01-11": 32
+      "2026-01-11": 10
     }
   },
   {
@@ -337,7 +337,7 @@
     "icon": "https://www.rolcris.ro/favicons/favicon.ico",
     "slug": "rolcris",
     "status": "down",
-    "uptime": "86.31%",
+    "uptime": "86.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -348,7 +348,7 @@
     "timeMonth": 0,
     "timeYear": 3541,
     "dailyMinutesDown": {
-      "2026-01-25": 1016,
+      "2026-01-25": 1041,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
