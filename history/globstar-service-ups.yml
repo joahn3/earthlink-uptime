@@ -1,7 +1,7 @@
 url: https://serviceups.globstar.ro
-status: down
-code: 403
-responseTime: 1229
-lastUpdated: 2026-01-25T14:59:21.512Z
+status: up
+code: 200
+responseTime: 5900
+lastUpdated: 2026-01-25T15:30:14.148Z
 startTime: 2022-02-13T10:11:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
