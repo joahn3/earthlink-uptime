@@ -284,14 +284,14 @@
     "slug": "laravel-enso",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "86.83%",
+    "uptimeDay": "88.54%",
     "uptimeWeek": "67.63%",
     "uptimeMonth": "85.45%",
     "uptimeYear": "98.79%",
     "time": 1616,
-    "timeDay": 1698,
+    "timeDay": 1619,
     "timeWeek": 1674,
-    "timeMonth": 1659,
+    "timeMonth": 1657,
     "timeYear": 1614,
     "dailyMinutesDown": {
       "2026-02-10": 165,
@@ -340,18 +340,19 @@
     "icon": "https://www.rolcris.ro/favicons/favicon.ico",
     "slug": "rolcris",
     "status": "down",
-    "uptime": "85.34%",
+    "uptime": "85.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.83%",
+    "uptimeYear": "41.80%",
     "time": 3527,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3565,
     "dailyMinutesDown": {
-      "2026-02-10": 1414,
+      "2026-02-11": 164,
+      "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
@@ -1464,8 +1465,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 1221,
       "2025-02-13": 1440,
-      "2025-02-12": 1440,
-      "2025-02-11": 1216
+      "2025-02-12": 1440
     }
   }
 ]
