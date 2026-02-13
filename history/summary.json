@@ -282,19 +282,19 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "73.97%",
-    "uptimeWeek": "73.46%",
-    "uptimeMonth": "84.33%",
-    "uptimeYear": "98.69%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "73.88%",
+    "uptimeWeek": "73.45%",
+    "uptimeMonth": "84.41%",
+    "uptimeYear": "98.70%",
     "time": 1619,
     "timeDay": 1627,
     "timeWeek": 1786,
     "timeMonth": 1667,
     "timeYear": 1617,
     "dailyMinutesDown": {
-      "2026-02-13": 293,
+      "2026-02-13": 294,
       "2026-02-12": 470,
       "2026-02-11": 200,
       "2026-02-10": 165,
@@ -310,7 +310,7 @@
       "2026-01-31": 359,
       "2026-01-30": 775,
       "2026-01-29": 293,
-      "2026-01-28": 236
+      "2026-01-28": 201
     }
   },
   {
@@ -352,7 +352,7 @@
     "timeMonth": 0,
     "timeYear": 3565,
     "dailyMinutesDown": {
-      "2026-02-13": 925,
+      "2026-02-13": 968,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -1444,7 +1444,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 1931,
     "timeDay": 1646,
     "timeWeek": 1837,
