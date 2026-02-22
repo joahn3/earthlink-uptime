@@ -282,19 +282,19 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "65.44%",
-    "uptimeWeek": "70.68%",
-    "uptimeMonth": "83.73%",
-    "uptimeYear": "98.64%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "67.46%",
+    "uptimeWeek": "70.62%",
+    "uptimeMonth": "84.32%",
+    "uptimeYear": "98.69%",
     "time": 1623,
     "timeDay": 1579,
     "timeWeek": 1771,
     "timeMonth": 1674,
     "timeYear": 1619,
     "dailyMinutesDown": {
-      "2026-02-22": 223,
+      "2026-02-22": 229,
       "2026-02-21": 338,
       "2026-02-20": 337,
       "2026-02-19": 210,
@@ -311,7 +311,7 @@
       "2026-02-08": 578,
       "2026-02-07": 254,
       "2026-02-06": 433,
-      "2026-02-05": 442
+      "2026-02-05": 177
     }
   },
   {
@@ -346,14 +346,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.77%",
+    "uptimeYear": "38.75%",
     "time": 3537,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3584,
     "dailyMinutesDown": {
-      "2026-02-22": 225,
+      "2026-02-22": 315,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
@@ -589,18 +589,19 @@
     "url": "https://ceisales.com",
     "icon": "https://ceisales.com/favicons/favicon.ico",
     "slug": "cei-sales",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "98.12%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "98.13%",
     "uptimeYear": "99.08%",
-    "time": 1037,
+    "time": 1038,
     "timeDay": 892,
     "timeWeek": 807,
     "timeMonth": 971,
     "timeYear": 1185,
     "dailyMinutesDown": {
+      "2026-02-22": 4,
       "2026-02-21": 42,
       "2026-02-19": 59,
       "2026-02-18": 60,
@@ -685,8 +686,7 @@
       "2025-10-14": 18,
       "2025-10-13": 20,
       "2025-10-12": 19,
-      "2025-10-11": 16,
-      "2025-10-10": 28
+      "2025-10-11": 16
     }
   },
   {
@@ -694,11 +694,11 @@
     "url": "https://app.ceisales.com/login",
     "icon": "https://app.ceisales.com/images/logo.svg",
     "slug": "cei-sales-app",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "98.08%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "99.46%",
     "time": 224,
     "timeDay": 230,
@@ -706,6 +706,7 @@
     "timeMonth": 245,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2026-02-22": 3,
       "2026-02-21": 41,
       "2026-02-19": 58,
       "2026-02-18": 59,
@@ -799,8 +800,7 @@
       "2025-09-25": 19,
       "2025-09-24": 17,
       "2025-09-21": 18,
-      "2025-09-18": 18,
-      "2025-09-16": 18
+      "2025-09-18": 18
     }
   },
   {
@@ -808,11 +808,11 @@
     "url": "https://wiki.ceisales.com/login",
     "icon": "https://wiki.ceisales.com/vendor/wiki/icon.png",
     "slug": "cei-sales-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "97.27%",
-    "uptimeMonth": "96.98%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "99.38%",
     "time": 203,
     "timeDay": 251,
@@ -820,6 +820,7 @@
     "timeMonth": 227,
     "timeYear": 204,
     "dailyMinutesDown": {
+      "2026-02-22": 1,
       "2026-02-21": 40,
       "2026-02-19": 57,
       "2026-02-18": 58,
@@ -914,8 +915,7 @@
       "2025-09-16": 18,
       "2025-09-14": 16,
       "2025-09-12": 16,
-      "2025-09-10": 17,
-      "2025-09-08": 18
+      "2025-09-10": 17
     }
   },
   {
@@ -1313,7 +1313,7 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "79.25%",
+    "uptime": "79.26%",
     "uptimeDay": "65.24%",
     "uptimeWeek": "95.03%",
     "uptimeMonth": "98.86%",
