@@ -34,7 +34,7 @@
     "timeDay": 854,
     "timeWeek": 869,
     "timeMonth": 858,
-    "timeYear": 1655,
+    "timeYear": 1654,
     "dailyMinutesDown": {
       "2025-12-31": 696,
       "2025-12-30": 171,
@@ -93,7 +93,7 @@
     "timeDay": 988,
     "timeWeek": 874,
     "timeMonth": 859,
-    "timeYear": 906,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2026-03-05": 50,
       "2026-01-23": 31,
@@ -284,19 +284,19 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "67.23%",
-    "uptimeWeek": "67.03%",
-    "uptimeMonth": "84.82%",
-    "uptimeYear": "98.73%",
+    "uptimeDay": "67.14%",
+    "uptimeWeek": "67.01%",
+    "uptimeMonth": "84.91%",
+    "uptimeYear": "98.74%",
     "time": 1623,
     "timeDay": 1646,
     "timeWeek": 1618,
     "timeMonth": 1685,
     "timeYear": 1621,
     "dailyMinutesDown": {
-      "2026-03-06": 457,
+      "2026-03-06": 458,
       "2026-03-05": 425,
       "2026-03-04": 528,
       "2026-03-03": 468,
@@ -310,7 +310,7 @@
       "2026-02-23": 258,
       "2026-02-22": 681,
       "2026-02-21": 338,
-      "2026-02-20": 130
+      "2026-02-20": 86
     }
   },
   {
@@ -328,7 +328,7 @@
     "timeDay": 630,
     "timeWeek": 551,
     "timeMonth": 517,
-    "timeYear": 451,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2026-01-30": 39,
       "2025-10-20": 25,
@@ -345,14 +345,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "35.27%",
+    "uptimeYear": "35.26%",
     "time": 3538,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3598,
+    "timeYear": 3599,
     "dailyMinutesDown": {
-      "2026-03-06": 1371,
+      "2026-03-06": 1398,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
@@ -610,7 +610,7 @@
     "timeDay": 983,
     "timeWeek": 682,
     "timeMonth": 736,
-    "timeYear": 1197,
+    "timeYear": 1198,
     "dailyMinutesDown": {
       "2026-03-05": 56,
       "2026-03-02": 58,
@@ -965,7 +965,7 @@
     "timeDay": 529,
     "timeWeek": 828,
     "timeMonth": 816,
-    "timeYear": 864,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-12-05": 26,
       "2025-08-07": 44,
@@ -987,7 +987,7 @@
     "timeDay": 3288,
     "timeWeek": 2934,
     "timeMonth": 3182,
-    "timeYear": 2925,
+    "timeYear": 2923,
     "dailyMinutesDown": {
       "2026-01-15": 47,
       "2026-01-12": 47,
@@ -1118,7 +1118,7 @@
     "timeDay": 1186,
     "timeWeek": 1791,
     "timeMonth": 1435,
-    "timeYear": 1275,
+    "timeYear": 1276,
     "dailyMinutesDown": {
       "2026-03-06": 76,
       "2025-12-22": 47,
@@ -1143,7 +1143,7 @@
     "timeDay": 2373,
     "timeWeek": 3385,
     "timeMonth": 4070,
-    "timeYear": 3794,
+    "timeYear": 3797,
     "dailyMinutesDown": {
       "2026-03-06": 45,
       "2026-03-04": 46,
@@ -1219,7 +1219,7 @@
     "timeDay": 1013,
     "timeWeek": 1016,
     "timeMonth": 989,
-    "timeYear": 1012,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2026-03-06": 45,
       "2026-03-04": 46,
@@ -1295,7 +1295,7 @@
     "timeDay": 2335,
     "timeWeek": 2305,
     "timeMonth": 2114,
-    "timeYear": 3098,
+    "timeYear": 3099,
     "dailyMinutesDown": {
       "2026-01-05": 405,
       "2026-01-04": 786,
@@ -1338,7 +1338,7 @@
     "timeDay": 3071,
     "timeWeek": 2829,
     "timeMonth": 3344,
-    "timeYear": 3070,
+    "timeYear": 3071,
     "dailyMinutesDown": {
       "2026-02-25": 78,
       "2026-02-23": 175,
@@ -1429,7 +1429,7 @@
     "timeDay": 1461,
     "timeWeek": 1343,
     "timeMonth": 1345,
-    "timeYear": 1385,
+    "timeYear": 1386,
     "dailyMinutesDown": {
       "2026-02-05": 21,
       "2025-12-19": 23,
