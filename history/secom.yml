@@ -1,7 +1,7 @@
 url: https://www.secom.ro
-status: down
-code: 503
-responseTime: 328
-lastUpdated: 2026-03-23T23:51:05.606Z
+status: up
+code: 200
+responseTime: 1745
+lastUpdated: 2026-03-24T01:21:36.346Z
 startTime: 2022-02-13T05:37:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
