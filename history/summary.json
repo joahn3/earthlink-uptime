@@ -39,7 +39,7 @@
     "timeDay": 1153,
     "timeWeek": 922,
     "timeMonth": 915,
-    "timeYear": 1486,
+    "timeYear": 1484,
     "dailyMinutesDown": {
       "2026-03-25": 35,
       "2025-12-31": 696,
@@ -65,7 +65,7 @@
     "timeDay": 1638,
     "timeWeek": 1565,
     "timeMonth": 1247,
-    "timeYear": 1232,
+    "timeYear": 1231,
     "dailyMinutesDown": {
       "2026-04-27": 56,
       "2026-03-25": 35,
@@ -198,15 +198,15 @@
     "uptime": "98.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.06%",
-    "uptimeYear": "94.90%",
+    "uptimeMonth": "39.79%",
+    "uptimeYear": "94.87%",
     "time": 1135,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1004,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2026-05-10": 1274,
+      "2026-05-10": 1392,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -321,19 +321,19 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "85.35%",
-    "uptimeWeek": "75.98%",
-    "uptimeMonth": "75.54%",
-    "uptimeYear": "97.96%",
+    "uptimeDay": "85.28%",
+    "uptimeWeek": "76.12%",
+    "uptimeMonth": "75.73%",
+    "uptimeYear": "97.98%",
     "time": 1625,
     "timeDay": 1746,
     "timeWeek": 1667,
-    "timeMonth": 1681,
+    "timeMonth": 1680,
     "timeYear": 1627,
     "dailyMinutesDown": {
-      "2026-05-10": 211,
+      "2026-05-10": 212,
       "2026-05-09": 429,
       "2026-05-08": 239,
       "2026-05-07": 323,
@@ -359,7 +359,7 @@
       "2026-04-17": 436,
       "2026-04-16": 310,
       "2026-04-15": 658,
-      "2026-04-14": 477
+      "2026-04-14": 394
     }
   },
   {
@@ -400,7 +400,7 @@
     "timeDay": 943,
     "timeWeek": 794,
     "timeMonth": 832,
-    "timeYear": 1941,
+    "timeYear": 1930,
     "dailyMinutesDown": {
       "2026-05-07": 277,
       "2026-05-06": 108,
@@ -687,11 +687,11 @@
     "uptimeWeek": "99.42%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.04%",
-    "time": 1309,
+    "time": 1416,
     "timeDay": 15891,
     "timeWeek": 12655,
     "timeMonth": 4588,
-    "timeYear": 1546,
+    "timeYear": 1548,
     "dailyMinutesDown": {
       "2026-05-05": 58,
       "2026-05-02": 193,
@@ -1027,7 +1027,7 @@
     "timeDay": 421,
     "timeWeek": 225,
     "timeMonth": 255,
-    "timeYear": 310,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2025-12-10": 39,
       "2025-11-18": 144
@@ -1048,7 +1048,7 @@
     "timeDay": 442,
     "timeWeek": 1142,
     "timeMonth": 1021,
-    "timeYear": 865,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2026-03-24": 82,
       "2026-03-23": 9,
@@ -1071,7 +1071,7 @@
     "timeDay": 2448,
     "timeWeek": 2462,
     "timeMonth": 2893,
-    "timeYear": 2864,
+    "timeYear": 2851,
     "dailyMinutesDown": {
       "2026-05-02": 270,
       "2026-05-01": 87,
@@ -1099,7 +1099,7 @@
     "timeDay": 860,
     "timeWeek": 834,
     "timeMonth": 1093,
-    "timeYear": 1200,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2026-05-07": 73,
       "2026-05-06": 108,
@@ -1173,7 +1173,7 @@
     "timeDay": 1097,
     "timeWeek": 1067,
     "timeMonth": 1179,
-    "timeYear": 1181,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2026-02-25": 820,
       "2026-02-24": 718,
@@ -1201,7 +1201,7 @@
     "timeDay": 1254,
     "timeWeek": 1204,
     "timeMonth": 1245,
-    "timeYear": 1283,
+    "timeYear": 1282,
     "dailyMinutesDown": {
       "2026-03-25": 32,
       "2026-03-21": 160,
@@ -1229,7 +1229,7 @@
     "timeDay": 5593,
     "timeWeek": 4226,
     "timeMonth": 3958,
-    "timeYear": 3809,
+    "timeYear": 3807,
     "dailyMinutesDown": {
       "2026-05-08": 236,
       "2026-05-07": 73,
@@ -1378,7 +1378,7 @@
     "timeDay": 1920,
     "timeWeek": 1789,
     "timeMonth": 1926,
-    "timeYear": 2387,
+    "timeYear": 2385,
     "dailyMinutesDown": {
       "2026-05-05": 126,
       "2026-04-21": 53,
@@ -1424,7 +1424,7 @@
     "timeDay": 2585,
     "timeWeek": 2429,
     "timeMonth": 2739,
-    "timeYear": 3108,
+    "timeYear": 3109,
     "dailyMinutesDown": {
       "2026-04-16": 46,
       "2026-02-25": 78,
@@ -1515,7 +1515,7 @@
     "timeDay": 1380,
     "timeWeek": 1270,
     "timeMonth": 1358,
-    "timeYear": 1409,
+    "timeYear": 1408,
     "dailyMinutesDown": {
       "2026-04-28": 105,
       "2026-02-05": 21,
