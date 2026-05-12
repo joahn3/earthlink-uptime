@@ -1,7 +1,7 @@
 url: https://status.earthlink.ro
-status: down
-code: 500
-responseTime: 33084
-lastUpdated: 2026-05-12T22:14:20.105Z
+status: up
+code: 200
+responseTime: 1645
+lastUpdated: 2026-05-12T23:30:11.620Z
 startTime: 2022-02-13T10:09:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
