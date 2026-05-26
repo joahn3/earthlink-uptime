@@ -195,11 +195,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.xtelecom.ro.ico",
     "slug": "xtelecom-admin",
     "status": "down",
-    "uptime": "97.77%",
+    "uptime": "97.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.75%",
+    "uptimeYear": "90.71%",
     "time": 1138,
     "timeDay": 0,
     "timeWeek": 0,
@@ -215,7 +215,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-05-26": 11,
+      "2026-05-26": 237,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -340,7 +340,7 @@
     "status": "up",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.84%",
+    "uptimeWeek": "84.08%",
     "uptimeMonth": "72.39%",
     "uptimeYear": "97.56%",
     "time": 1630,
@@ -412,11 +412,11 @@
     "icon": "https://www.rolcris.ro/favicons/favicon.ico",
     "slug": "rolcris",
     "status": "down",
-    "uptime": "83.87%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "96.80%",
-    "uptimeYear": "31.37%",
+    "uptime": "83.86%",
+    "uptimeDay": "83.52%",
+    "uptimeWeek": "95.75%",
+    "uptimeMonth": "96.28%",
+    "uptimeYear": "31.32%",
     "time": 2526,
     "timeDay": 987,
     "timeWeek": 795,
@@ -698,7 +698,7 @@
       "2026-05-17": 64,
       "2026-05-23": 59,
       "2026-05-24": 133,
-      "2026-05-26": 11
+      "2026-05-26": 237
     }
   },
   {
@@ -1114,11 +1114,11 @@
     "icon": "https://www.miba.ro/img/logo.png",
     "slug": "miba",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "98.81%",
+    "uptime": "99.71%",
+    "uptimeDay": "83.53%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "98.77%",
     "time": 1174,
     "timeDay": 783,
     "timeWeek": 881,
@@ -1181,7 +1181,7 @@
       "2026-05-17": 64,
       "2026-05-23": 59,
       "2026-05-24": 132,
-      "2026-05-26": 11
+      "2026-05-26": 237
     }
   },
   {
@@ -1246,11 +1246,11 @@
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "98.71%",
+    "uptime": "99.69%",
+    "uptimeDay": "83.54%",
+    "uptimeWeek": "94.50%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "98.67%",
     "time": 3825,
     "timeDay": 1062,
     "timeWeek": 3608,
@@ -1311,7 +1311,7 @@
       "2026-05-21": 127,
       "2026-05-23": 58,
       "2026-05-24": 132,
-      "2026-05-26": 11
+      "2026-05-26": 237
     }
   },
   {
@@ -1320,11 +1320,11 @@
     "icon": "https://paicucons.ro/wp-content/themes/paicu/inc/assets/images/logo-dark.png",
     "slug": "paicu-and-sons-consulting",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "98.83%",
+    "uptime": "99.72%",
+    "uptimeDay": "83.56%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "98.79%",
     "time": 1009,
     "timeDay": 577,
     "timeWeek": 831,
@@ -1388,7 +1388,7 @@
       "2026-05-17": 63,
       "2026-05-23": 58,
       "2026-05-24": 131,
-      "2026-05-26": 11
+      "2026-05-26": 237
     }
   },
   {
@@ -1397,11 +1397,11 @@
     "icon": "https://www.amoobi.com/files/design/logo_amoobi.png",
     "slug": "amoobi",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "67.19%",
-    "uptimeWeek": "95.31%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.77%",
+    "uptime": "99.51%",
+    "uptimeDay": "51.52%",
+    "uptimeWeek": "93.07%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.73%",
     "time": 3012,
     "timeDay": 2731,
     "timeWeek": 1960,
@@ -1434,7 +1434,7 @@
       "2026-04-21": 53,
       "2026-05-05": 126,
       "2026-05-25": 460,
-      "2026-05-26": 13
+      "2026-05-26": 238
     }
   },
   {
