@@ -193,11 +193,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.xtelecom.ro.ico",
     "slug": "xtelecom-admin",
     "status": "down",
-    "uptime": "97.24%",
+    "uptime": "97.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.42%",
+    "uptimeYear": "88.36%",
     "time": 1138,
     "timeDay": 0,
     "timeWeek": 0,
@@ -213,7 +213,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-06-03": 738,
+      "2026-06-03": 1041,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -343,16 +343,16 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "92.99%",
-    "uptimeWeek": "96.57%",
-    "uptimeMonth": "78.31%",
-    "uptimeYear": "97.50%",
-    "time": 1627,
-    "timeDay": 1384,
-    "timeWeek": 1605,
-    "timeMonth": 1671,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "72.17%",
+    "uptimeWeek": "93.60%",
+    "uptimeMonth": "77.94%",
+    "uptimeYear": "97.44%",
+    "time": 1626,
+    "timeDay": 1312,
+    "timeWeek": 1564,
+    "timeMonth": 1670,
     "timeYear": 1629,
     "dailyMinutesDown": {
       "2026-04-25": 329,
@@ -389,7 +389,7 @@
       "2026-05-28": 227,
       "2026-05-30": 4,
       "2026-05-29": 13,
-      "2026-06-03": 101
+      "2026-06-03": 401
     }
   },
   {
@@ -425,11 +425,11 @@
     "icon": "https://www.rolcris.ro/favicons/favicon.ico",
     "slug": "rolcris",
     "status": "down",
-    "uptime": "83.94%",
-    "uptimeDay": "88.47%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "96.85%",
-    "uptimeYear": "31.26%",
+    "uptime": "83.92%",
+    "uptimeDay": "67.45%",
+    "uptimeWeek": "93.79%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "31.20%",
     "time": 2432,
     "timeDay": 993,
     "timeWeek": 1169,
@@ -714,7 +714,7 @@
       "2026-05-26": 262,
       "2026-06-01": 149,
       "2026-06-02": 45,
-      "2026-06-03": 130
+      "2026-06-03": 433
     }
   },
   {
@@ -1129,11 +1129,11 @@
     "icon": "https://www.miba.ro/img/logo.png",
     "slug": "miba",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "88.48%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "98.72%",
+    "uptime": "99.69%",
+    "uptimeDay": "67.48%",
+    "uptimeWeek": "93.80%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "98.66%",
     "time": 1165,
     "timeDay": 811,
     "timeWeek": 796,
@@ -1195,7 +1195,7 @@
       "2026-05-26": 262,
       "2026-06-01": 148,
       "2026-06-02": 44,
-      "2026-06-03": 131
+      "2026-06-03": 434
     }
   },
   {
@@ -1260,11 +1260,11 @@
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "88.51%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "96.50%",
-    "uptimeYear": "98.68%",
+    "uptime": "99.68%",
+    "uptimeDay": "67.51%",
+    "uptimeWeek": "93.81%",
+    "uptimeMonth": "95.81%",
+    "uptimeYear": "98.62%",
     "time": 3820,
     "timeDay": 2503,
     "timeWeek": 3723,
@@ -1327,7 +1327,7 @@
       "2026-05-26": 261,
       "2026-06-01": 147,
       "2026-06-02": 44,
-      "2026-06-03": 131
+      "2026-06-03": 433
     }
   },
   {
@@ -1336,11 +1336,11 @@
     "icon": "https://paicucons.ro/wp-content/themes/paicu/inc/assets/images/logo-dark.png",
     "slug": "paicu-and-sons-consulting",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "88.54%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "98.74%",
+    "uptime": "99.69%",
+    "uptimeDay": "67.54%",
+    "uptimeWeek": "93.81%",
+    "uptimeMonth": "96.64%",
+    "uptimeYear": "98.68%",
     "time": 1006,
     "timeDay": 645,
     "timeWeek": 824,
@@ -1404,7 +1404,7 @@
       "2026-05-26": 261,
       "2026-06-01": 147,
       "2026-06-02": 43,
-      "2026-06-03": 131
+      "2026-06-03": 433
     }
   },
   {
@@ -1415,7 +1415,7 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.20%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "97.13%",
     "uptimeYear": "98.65%",
     "time": 2991,
