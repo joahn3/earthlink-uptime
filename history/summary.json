@@ -39,7 +39,7 @@
     "timeDay": 1080,
     "timeWeek": 1021,
     "timeMonth": 976,
-    "timeYear": 1426,
+    "timeYear": 1425,
     "dailyMinutesDown": {
       "2025-06-09": 179,
       "2025-06-13": 74,
@@ -65,7 +65,7 @@
     "timeDay": 1985,
     "timeWeek": 2599,
     "timeMonth": 2093,
-    "timeYear": 1292,
+    "timeYear": 1293,
     "dailyMinutesDown": {
       "2025-06-09": 178,
       "2025-06-14": 839,
@@ -98,7 +98,7 @@
     "timeDay": 971,
     "timeWeek": 968,
     "timeMonth": 2711,
-    "timeYear": 1131,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2025-06-12": 22,
       "2025-06-16": 22,
@@ -151,7 +151,7 @@
     "timeDay": 1270,
     "timeWeek": 1180,
     "timeMonth": 3386,
-    "timeYear": 1426,
+    "timeYear": 1427,
     "dailyMinutesDown": {
       "2025-06-16": 22,
       "2025-07-08": 31,
@@ -197,12 +197,12 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.04%",
+    "uptimeYear": "88.02%",
     "time": 1138,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1131,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2025-06-09": 178,
       "2025-06-14": 79,
@@ -213,7 +213,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-06-04": 1325,
+      "2026-06-04": 1398,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -274,7 +274,7 @@
     "timeDay": 1197,
     "timeWeek": 972,
     "timeMonth": 878,
-    "timeYear": 999,
+    "timeYear": 1000,
     "dailyMinutesDown": {
       "2025-06-09": 167,
       "2025-06-14": 79,
@@ -302,7 +302,7 @@
     "timeDay": 2931,
     "timeWeek": 2747,
     "timeMonth": 2517,
-    "timeYear": 1926,
+    "timeYear": 1927,
     "dailyMinutesDown": {
       "2025-06-09": 166,
       "2025-06-14": 79,
@@ -344,16 +344,16 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "78.68%",
-    "uptimeWeek": "92.81%",
-    "uptimeMonth": "78.69%",
-    "uptimeYear": "97.42%",
+    "uptimeDay": "76.00%",
+    "uptimeWeek": "92.09%",
+    "uptimeMonth": "78.64%",
+    "uptimeYear": "97.41%",
     "time": 1626,
-    "timeDay": 1501,
-    "timeWeek": 1543,
-    "timeMonth": 1660,
+    "timeDay": 1581,
+    "timeWeek": 1569,
+    "timeMonth": 1662,
     "timeYear": 1629,
     "dailyMinutesDown": {
       "2026-04-25": 128,
@@ -390,7 +390,7 @@
       "2026-05-30": 4,
       "2026-05-29": 13,
       "2026-06-03": 476,
-      "2026-06-04": 232
+      "2026-06-04": 304
     }
   },
   {
@@ -425,17 +425,17 @@
     "url": "https://rolcris.ro",
     "icon": "https://www.rolcris.ro/favicons/favicon.ico",
     "slug": "rolcris",
-    "status": "down",
+    "status": "up",
     "uptime": "83.91%",
-    "uptimeDay": "78.71%",
-    "uptimeWeek": "88.86%",
-    "uptimeMonth": "95.38%",
-    "uptimeYear": "31.11%",
-    "time": 2391,
-    "timeDay": 1241,
-    "timeWeek": 1229,
-    "timeMonth": 961,
-    "timeYear": 1509,
+    "uptimeDay": "76.05%",
+    "uptimeWeek": "88.15%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "31.09%",
+    "time": 2386,
+    "timeDay": 1381,
+    "timeWeek": 1256,
+    "timeMonth": 975,
+    "timeYear": 1502,
     "dailyMinutesDown": {
       "2025-06-09": 165,
       "2025-06-14": 79,
@@ -716,7 +716,7 @@
       "2026-06-01": 149,
       "2026-06-02": 45,
       "2026-06-03": 698,
-      "2026-06-04": 232
+      "2026-06-04": 304
     }
   },
   {
@@ -734,7 +734,7 @@
     "timeDay": 2350,
     "timeWeek": 3117,
     "timeMonth": 6194,
-    "timeYear": 1817,
+    "timeYear": 1820,
     "dailyMinutesDown": {
       "2025-11-28": 20,
       "2025-11-29": 28,
@@ -1091,7 +1091,7 @@
     "timeDay": 579,
     "timeWeek": 537,
     "timeMonth": 1038,
-    "timeYear": 858,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2025-08-07": 44,
       "2025-12-05": 26,
@@ -1114,7 +1114,7 @@
     "timeDay": 2450,
     "timeWeek": 2754,
     "timeMonth": 2738,
-    "timeYear": 2841,
+    "timeYear": 2842,
     "dailyMinutesDown": {
       "2025-06-29": 33,
       "2025-08-16": 43,
@@ -1130,16 +1130,16 @@
     "url": "https://www.miba.ro",
     "icon": "https://www.miba.ro/img/logo.png",
     "slug": "miba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "93.22%",
-    "uptimeWeek": "90.94%",
-    "uptimeMonth": "96.32%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "90.56%",
+    "uptimeWeek": "90.23%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "98.62%",
     "time": 1165,
-    "timeDay": 1041,
-    "timeWeek": 868,
-    "timeMonth": 856,
+    "timeDay": 1039,
+    "timeWeek": 864,
+    "timeMonth": 855,
     "timeYear": 1187,
     "dailyMinutesDown": {
       "2026-02-06": 60,
@@ -1196,7 +1196,7 @@
       "2026-06-01": 148,
       "2026-06-02": 44,
       "2026-06-03": 699,
-      "2026-06-04": 23
+      "2026-06-04": 95
     }
   },
   {
@@ -1214,7 +1214,7 @@
     "timeDay": 1592,
     "timeWeek": 1286,
     "timeMonth": 1177,
-    "timeYear": 1182,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2025-07-04": 28,
       "2025-07-28": 579,
@@ -1242,7 +1242,7 @@
     "timeDay": 1288,
     "timeWeek": 1273,
     "timeMonth": 1238,
-    "timeYear": 1282,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2025-06-09": 164,
       "2025-06-14": 79,
@@ -1260,17 +1260,17 @@
     "url": "https://www.felixtelecom.ro",
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "90.96%",
-    "uptimeMonth": "95.50%",
-    "uptimeYear": "98.58%",
-    "time": 3815,
-    "timeDay": 2492,
-    "timeWeek": 3423,
-    "timeMonth": 3725,
-    "timeYear": 3792,
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "90.25%",
+    "uptimeMonth": "95.34%",
+    "uptimeYear": "98.56%",
+    "time": 3810,
+    "timeDay": 2709,
+    "timeWeek": 3301,
+    "timeMonth": 3683,
+    "timeYear": 3783,
     "dailyMinutesDown": {
       "2026-02-14": 233,
       "2026-02-15": 312,
@@ -1328,7 +1328,7 @@
       "2026-06-01": 147,
       "2026-06-02": 44,
       "2026-06-03": 697,
-      "2026-06-04": 23
+      "2026-06-04": 94
     }
   },
   {
@@ -1336,16 +1336,16 @@
     "url": "https://paicucons.ro",
     "icon": "https://paicucons.ro/wp-content/themes/paicu/inc/assets/images/logo-dark.png",
     "slug": "paicu-and-sons-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "93.27%",
-    "uptimeWeek": "90.97%",
-    "uptimeMonth": "96.34%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "90.26%",
+    "uptimeMonth": "96.17%",
+    "uptimeYear": "98.62%",
     "time": 1005,
-    "timeDay": 778,
-    "timeWeek": 837,
-    "timeMonth": 882,
+    "timeDay": 897,
+    "timeWeek": 845,
+    "timeMonth": 884,
     "timeYear": 1002,
     "dailyMinutesDown": {
       "2026-02-04": 45,
@@ -1404,7 +1404,7 @@
       "2026-06-01": 147,
       "2026-06-02": 43,
       "2026-06-03": 697,
-      "2026-06-04": 22
+      "2026-06-04": 94
     }
   },
   {
@@ -1460,7 +1460,7 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "80.59%",
+    "uptime": "80.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1469,7 +1469,7 @@
     "timeDay": 2870,
     "timeWeek": 2762,
     "timeMonth": 2739,
-    "timeYear": 3125,
+    "timeYear": 3128,
     "dailyMinutesDown": {
       "2025-06-08": 144,
       "2025-06-09": 378,
@@ -1560,7 +1560,7 @@
     "timeDay": 1645,
     "timeWeek": 1476,
     "timeMonth": 1431,
-    "timeYear": 1416,
+    "timeYear": 1417,
     "dailyMinutesDown": {
       "2025-11-04": 22,
       "2025-12-09": 60,
@@ -1584,7 +1584,7 @@
     "timeDay": 1680,
     "timeWeek": 2656,
     "timeMonth": 2221,
-    "timeYear": 1977,
+    "timeYear": 1980,
     "dailyMinutesDown": {
       "2025-11-04": 21,
       "2025-11-17": 22,
