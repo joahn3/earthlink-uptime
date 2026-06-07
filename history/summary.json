@@ -193,11 +193,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.xtelecom.ro.ico",
     "slug": "xtelecom-admin",
     "status": "down",
-    "uptime": "97.01%",
+    "uptime": "97.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.42%",
+    "uptimeYear": "87.38%",
     "time": 1138,
     "timeDay": 0,
     "timeWeek": 0,
@@ -213,7 +213,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-06-07": 258,
+      "2026-06-07": 465,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -351,12 +351,12 @@
     "uptime": "99.40%",
     "uptimeDay": "95.54%",
     "uptimeWeek": "91.63%",
-    "uptimeMonth": "79.86%",
+    "uptimeMonth": "80.23%",
     "uptimeYear": "97.41%",
     "time": 1626,
     "timeDay": 1505,
     "timeWeek": 1539,
-    "timeMonth": 1643,
+    "timeMonth": 1641,
     "timeYear": 1629,
     "dailyMinutesDown": {
       "2026-04-25": 87,
@@ -412,7 +412,7 @@
     "timeDay": 300,
     "timeWeek": 672,
     "timeMonth": 590,
-    "timeYear": 476,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2025-10-20": 25,
       "2026-01-30": 39,
@@ -429,15 +429,15 @@
     "icon": "https://www.rolcris.ro/favicons/favicon.ico",
     "slug": "rolcris",
     "status": "down",
-    "uptime": "83.92%",
-    "uptimeDay": "96.77%",
-    "uptimeWeek": "85.21%",
-    "uptimeMonth": "95.17%",
-    "uptimeYear": "31.04%",
+    "uptime": "83.91%",
+    "uptimeDay": "82.44%",
+    "uptimeWeek": "83.17%",
+    "uptimeMonth": "94.78%",
+    "uptimeYear": "31.00%",
     "time": 2329,
     "timeDay": 957,
     "timeWeek": 1151,
-    "timeMonth": 997,
+    "timeMonth": 1003,
     "timeYear": 1464,
     "dailyMinutesDown": {
       "2025-06-09": 165,
@@ -721,7 +721,7 @@
       "2026-06-03": 698,
       "2026-06-04": 304,
       "2026-06-05": 249,
-      "2026-06-07": 47
+      "2026-06-07": 253
     }
   },
   {
@@ -1136,11 +1136,11 @@
     "icon": "https://www.miba.ro/img/logo.png",
     "slug": "miba",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "87.30%",
-    "uptimeMonth": "95.73%",
-    "uptimeYear": "98.60%",
+    "uptime": "99.67%",
+    "uptimeDay": "82.45%",
+    "uptimeWeek": "85.26%",
+    "uptimeMonth": "95.26%",
+    "uptimeYear": "98.56%",
     "time": 1163,
     "timeDay": 702,
     "timeWeek": 793,
@@ -1202,7 +1202,7 @@
       "2026-06-03": 699,
       "2026-06-04": 95,
       "2026-06-05": 249,
-      "2026-06-07": 47
+      "2026-06-07": 253
     }
   },
   {
@@ -1267,11 +1267,11 @@
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "87.33%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "98.53%",
+    "uptime": "99.65%",
+    "uptimeDay": "82.47%",
+    "uptimeWeek": "85.28%",
+    "uptimeMonth": "94.44%",
+    "uptimeYear": "98.49%",
     "time": 3821,
     "timeDay": 5355,
     "timeWeek": 3212,
@@ -1336,7 +1336,7 @@
       "2026-06-03": 697,
       "2026-06-04": 94,
       "2026-06-05": 248,
-      "2026-06-07": 46
+      "2026-06-07": 252
     }
   },
   {
@@ -1345,11 +1345,11 @@
     "icon": "https://paicucons.ro/wp-content/themes/paicu/inc/assets/images/logo-dark.png",
     "slug": "paicu-and-sons-consulting",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "87.35%",
-    "uptimeMonth": "95.75%",
-    "uptimeYear": "98.61%",
+    "uptime": "99.67%",
+    "uptimeDay": "82.48%",
+    "uptimeWeek": "85.30%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "98.57%",
     "time": 1001,
     "timeDay": 601,
     "timeWeek": 743,
@@ -1411,7 +1411,7 @@
       "2026-06-03": 697,
       "2026-06-04": 94,
       "2026-06-05": 247,
-      "2026-06-07": 46
+      "2026-06-07": 252
     }
   },
   {
@@ -1419,17 +1419,17 @@
     "url": "https://www.amoobi.com",
     "icon": "https://www.amoobi.com/files/design/logo_amoobi.png",
     "slug": "amoobi",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "97.33%",
-    "uptimeYear": "98.64%",
-    "time": 2987,
-    "timeDay": 1658,
-    "timeWeek": 2023,
-    "timeMonth": 1979,
-    "timeYear": 2226,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "83.23%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "98.60%",
+    "time": 2984,
+    "timeDay": 1689,
+    "timeWeek": 1985,
+    "timeMonth": 1971,
+    "timeYear": 2224,
     "dailyMinutesDown": {
       "2025-06-22": 17,
       "2025-08-14": 375,
@@ -1459,7 +1459,7 @@
       "2026-05-25": 460,
       "2026-05-26": 491,
       "2026-05-27": 182,
-      "2026-06-07": 37
+      "2026-06-07": 242
     }
   },
   {
