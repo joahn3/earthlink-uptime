@@ -12,7 +12,7 @@
     "uptimeYear": "99.85%",
     "time": 1548,
     "timeDay": 1262,
-    "timeWeek": 1479,
+    "timeWeek": 1415,
     "timeMonth": 1475,
     "timeYear": 1548,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
     "uptimeYear": "99.79%",
     "time": 1514,
     "timeDay": 792,
-    "timeWeek": 926,
+    "timeWeek": 904,
     "timeMonth": 964,
     "timeYear": 1409,
     "dailyMinutesDown": {
@@ -62,7 +62,7 @@
     "uptimeYear": "99.75%",
     "time": 1319,
     "timeDay": 1496,
-    "timeWeek": 1878,
+    "timeWeek": 1862,
     "timeMonth": 2139,
     "timeYear": 1304,
     "dailyMinutesDown": {
@@ -94,7 +94,7 @@
     "uptimeYear": "99.34%",
     "time": 1055,
     "timeDay": 683,
-    "timeWeek": 809,
+    "timeWeek": 786,
     "timeMonth": 2712,
     "timeYear": 1131,
     "dailyMinutesDown": {
@@ -147,7 +147,7 @@
     "uptimeYear": "99.37%",
     "time": 1325,
     "timeDay": 836,
-    "timeWeek": 1067,
+    "timeWeek": 1038,
     "timeMonth": 3383,
     "timeYear": 1427,
     "dailyMinutesDown": {
@@ -191,11 +191,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.xtelecom.ro.ico",
     "slug": "xtelecom-admin",
     "status": "down",
-    "uptime": "96.77%",
+    "uptime": "96.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.40%",
+    "uptimeYear": "86.36%",
     "time": 1138,
     "timeDay": 0,
     "timeWeek": 0,
@@ -210,7 +210,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-06-11": 26,
+      "2026-06-11": 259,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -276,7 +276,7 @@
     "uptimeYear": "99.92%",
     "time": 996,
     "timeDay": 873,
-    "timeWeek": 876,
+    "timeWeek": 831,
     "timeMonth": 876,
     "timeYear": 998,
     "dailyMinutesDown": {
@@ -303,7 +303,7 @@
     "uptimeYear": "99.92%",
     "time": 1859,
     "timeDay": 2035,
-    "timeWeek": 2463,
+    "timeWeek": 2397,
     "timeMonth": 2512,
     "timeYear": 1943,
     "dailyMinutesDown": {
@@ -328,7 +328,7 @@
     "uptimeYear": "99.92%",
     "time": 1006,
     "timeDay": 676,
-    "timeWeek": 809,
+    "timeWeek": 798,
     "timeMonth": 946,
     "timeYear": 1006,
     "dailyMinutesDown": {
@@ -347,16 +347,17 @@
     "slug": "laravel-enso",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "95.49%",
-    "uptimeMonth": "82.47%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "83.02%",
     "uptimeYear": "97.40%",
     "time": 1624,
     "timeDay": 1486,
-    "timeWeek": 1529,
+    "timeWeek": 1516,
     "timeMonth": 1640,
     "timeYear": 1622,
     "dailyMinutesDown": {
+      "2026-04-25": 38,
       "2026-04-26": 247,
       "2026-04-27": 468,
       "2026-04-28": 453,
@@ -392,8 +393,7 @@
       "2026-06-03": 476,
       "2026-06-04": 304,
       "2026-06-06": 64,
-      "2026-06-10": 99,
-      "2026-06-11": 9
+      "2026-06-10": 99
     }
   },
   {
@@ -409,7 +409,7 @@
     "uptimeYear": "99.92%",
     "time": 466,
     "timeDay": 335,
-    "timeWeek": 545,
+    "timeWeek": 510,
     "timeMonth": 571,
     "timeYear": 469,
     "dailyMinutesDown": {
@@ -430,13 +430,13 @@
     "slug": "rolcris",
     "status": "up",
     "uptime": "83.92%",
-    "uptimeDay": "92.88%",
-    "uptimeWeek": "85.43%",
-    "uptimeMonth": "93.38%",
+    "uptimeDay": "93.50%",
+    "uptimeWeek": "85.52%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "30.90%",
     "time": 2229,
     "timeDay": 1228,
-    "timeWeek": 1141,
+    "timeWeek": 1114,
     "timeMonth": 1053,
     "timeYear": 1387,
     "dailyMinutesDown": {
@@ -722,8 +722,7 @@
       "2026-06-05": 249,
       "2026-06-07": 653,
       "2026-06-08": 181,
-      "2026-06-10": 94,
-      "2026-06-11": 9
+      "2026-06-10": 94
     }
   },
   {
@@ -739,7 +738,7 @@
     "uptimeYear": "98.92%",
     "time": 1618,
     "timeDay": 5321,
-    "timeWeek": 2788,
+    "timeWeek": 2548,
     "timeMonth": 4114,
     "timeYear": 1852,
     "dailyMinutesDown": {
@@ -844,7 +843,7 @@
     "uptimeYear": "99.01%",
     "time": 243,
     "timeDay": 64,
-    "timeWeek": 197,
+    "timeWeek": 186,
     "timeMonth": 217,
     "timeYear": 250,
     "dailyMinutesDown": {
@@ -959,7 +958,7 @@
     "uptimeYear": "98.94%",
     "time": 209,
     "timeDay": 137,
-    "timeWeek": 208,
+    "timeWeek": 196,
     "timeMonth": 218,
     "timeYear": 213,
     "dailyMinutesDown": {
@@ -1075,7 +1074,7 @@
     "uptimeYear": "99.97%",
     "time": 300,
     "timeDay": 101,
-    "timeWeek": 301,
+    "timeWeek": 285,
     "timeMonth": 282,
     "timeYear": 309,
     "dailyMinutesDown": {
@@ -1096,7 +1095,7 @@
     "uptimeYear": "99.97%",
     "time": 898,
     "timeDay": 267,
-    "timeWeek": 390,
+    "timeWeek": 363,
     "timeMonth": 816,
     "timeYear": 843,
     "dailyMinutesDown": {
@@ -1119,7 +1118,7 @@
     "uptimeYear": "99.82%",
     "time": 2935,
     "timeDay": 1761,
-    "timeWeek": 2305,
+    "timeWeek": 2284,
     "timeMonth": 2662,
     "timeYear": 2833,
     "dailyMinutesDown": {
@@ -1138,18 +1137,19 @@
     "icon": "https://www.miba.ro/img/logo.png",
     "slug": "miba",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "87.52%",
-    "uptimeMonth": "93.87%",
-    "uptimeYear": "98.51%",
+    "uptime": "99.65%",
+    "uptimeDay": "93.51%",
+    "uptimeWeek": "87.61%",
+    "uptimeMonth": "93.89%",
+    "uptimeYear": "98.48%",
     "time": 1155,
     "timeDay": 635,
-    "timeWeek": 766,
+    "timeWeek": 735,
     "timeMonth": 819,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2026-02-12": 65,
+      "2026-02-12": 221,
+      "2026-02-11": 4,
       "2026-02-14": 184,
       "2026-02-15": 115,
       "2026-02-19": 83,
@@ -1204,8 +1204,7 @@
       "2026-06-05": 249,
       "2026-06-07": 652,
       "2026-06-08": 181,
-      "2026-06-10": 93,
-      "2026-06-11": 9
+      "2026-06-10": 93
     }
   },
   {
@@ -1221,7 +1220,7 @@
     "uptimeYear": "99.51%",
     "time": 1182,
     "timeDay": 876,
-    "timeWeek": 1622,
+    "timeWeek": 1626,
     "timeMonth": 1295,
     "timeYear": 1193,
     "dailyMinutesDown": {
@@ -1249,7 +1248,7 @@
     "uptimeYear": "99.89%",
     "time": 1287,
     "timeDay": 967,
-    "timeWeek": 1177,
+    "timeWeek": 1161,
     "timeMonth": 1229,
     "timeYear": 1283,
     "dailyMinutesDown": {
@@ -1270,17 +1269,17 @@
     "slug": "felix-telecom",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "62.43%",
-    "uptimeWeek": "83.18%",
-    "uptimeMonth": "92.59%",
+    "uptimeDay": "63.02%",
+    "uptimeWeek": "83.27%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "98.35%",
     "time": 3811,
     "timeDay": 3591,
-    "timeWeek": 3557,
+    "timeWeek": 3646,
     "timeMonth": 3593,
     "timeYear": 3781,
     "dailyMinutesDown": {
-      "2026-02-15": 29,
+      "2026-02-15": 57,
       "2026-02-19": 81,
       "2026-02-21": 137,
       "2026-02-25": 31,
@@ -1339,8 +1338,7 @@
       "2026-06-05": 248,
       "2026-06-07": 652,
       "2026-06-08": 181,
-      "2026-06-10": 532,
-      "2026-06-11": 9
+      "2026-06-10": 532
     }
   },
   {
@@ -1350,17 +1348,17 @@
     "slug": "paicu-and-sons-consulting",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "92.97%",
-    "uptimeWeek": "87.56%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "98.51%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "87.64%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "98.49%",
     "time": 1003,
     "timeDay": 744,
     "timeWeek": 766,
     "timeMonth": 841,
     "timeYear": 996,
     "dailyMinutesDown": {
-      "2026-02-11": 34,
+      "2026-02-11": 136,
       "2026-02-12": 221,
       "2026-02-14": 183,
       "2026-02-15": 115,
@@ -1416,8 +1414,7 @@
       "2026-06-05": 247,
       "2026-06-07": 651,
       "2026-06-08": 181,
-      "2026-06-10": 93,
-      "2026-06-11": 8
+      "2026-06-10": 93
     }
   },
   {
