@@ -192,7 +192,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.71%",
+    "uptimeYear": "85.69%",
     "time": 1139,
     "timeDay": 0,
     "timeWeek": 0,
@@ -206,7 +206,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-06-13": 752,
+      "2026-06-13": 883,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -340,16 +340,16 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "94.32%",
-    "uptimeMonth": "84.77%",
-    "uptimeYear": "97.35%",
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "93.13%",
+    "uptimeMonth": "84.79%",
+    "uptimeYear": "97.33%",
     "time": 1624,
-    "timeDay": 1263,
-    "timeWeek": 1452,
-    "timeMonth": 1636,
+    "timeDay": 1817,
+    "timeWeek": 1544,
+    "timeMonth": 1647,
     "timeYear": 1622,
     "dailyMinutesDown": {
       "2026-04-27": 468,
@@ -390,7 +390,7 @@
       "2026-06-10": 99,
       "2026-06-11": 270,
       "2026-06-12": 193,
-      "2026-06-13": 10
+      "2026-06-13": 131
     }
   },
   {
@@ -1425,11 +1425,11 @@
     "icon": "https://www.amoobi.com/files/design/logo_amoobi.png",
     "slug": "amoobi",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "86.22%",
-    "uptimeWeek": "86.08%",
-    "uptimeMonth": "94.21%",
-    "uptimeYear": "98.38%",
+    "uptime": "99.43%",
+    "uptimeDay": "77.12%",
+    "uptimeWeek": "84.77%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "98.35%",
     "time": 2971,
     "timeDay": 1746,
     "timeWeek": 1867,
@@ -1468,7 +1468,7 @@
       "2026-06-09": 250,
       "2026-06-10": 226,
       "2026-06-12": 488,
-      "2026-06-13": 199
+      "2026-06-13": 330
     }
   },
   {
