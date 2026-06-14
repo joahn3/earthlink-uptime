@@ -1,7 +1,7 @@
 url: https://www.miba.ro
-status: up
-code: 200
-responseTime: 665
-lastUpdated: 2026-06-14T21:15:14.504Z
+status: down
+code: 415
+responseTime: 572
+lastUpdated: 2026-06-14T22:42:07.527Z
 startTime: 2022-02-13T06:45:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
