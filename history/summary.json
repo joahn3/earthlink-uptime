@@ -184,11 +184,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.xtelecom.ro.ico",
     "slug": "xtelecom-admin",
     "status": "down",
-    "uptime": "96.45%",
+    "uptime": "96.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.97%",
+    "uptimeYear": "84.91%",
     "time": 1139,
     "timeDay": 0,
     "timeWeek": 0,
@@ -201,7 +201,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-06-16": 460,
+      "2026-06-16": 756,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -335,19 +335,19 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "87.33%",
-    "uptimeYear": "97.35%",
-    "time": 1625,
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "88.39%",
+    "uptimeMonth": "87.64%",
+    "uptimeYear": "97.38%",
+    "time": 1624,
     "timeDay": 1278,
     "timeWeek": 1520,
     "timeMonth": 1640,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2026-04-28": 374,
+      "2026-04-28": 219,
       "2026-04-29": 239,
       "2026-04-30": 453,
       "2026-05-01": 529,
@@ -384,7 +384,8 @@
       "2026-06-11": 270,
       "2026-06-12": 193,
       "2026-06-13": 207,
-      "2026-06-14": 399
+      "2026-06-14": 399,
+      "2026-06-16": 2
     }
   },
   {
@@ -420,11 +421,11 @@
     "icon": "https://www.rolcris.ro/favicons/favicon.ico",
     "slug": "rolcris",
     "status": "down",
-    "uptime": "83.93%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "88.36%",
-    "uptimeMonth": "90.94%",
-    "uptimeYear": "30.72%",
+    "uptime": "83.92%",
+    "uptimeDay": "79.31%",
+    "uptimeWeek": "85.42%",
+    "uptimeMonth": "90.26%",
+    "uptimeYear": "30.66%",
     "time": 2111,
     "timeDay": 825,
     "timeWeek": 1088,
@@ -716,7 +717,7 @@
       "2026-06-12": 286,
       "2026-06-13": 279,
       "2026-06-14": 275,
-      "2026-06-16": 2
+      "2026-06-16": 298
     }
   },
   {
@@ -1131,11 +1132,11 @@
     "icon": "https://www.miba.ro/img/logo.png",
     "slug": "miba",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "90.29%",
-    "uptimeMonth": "91.87%",
-    "uptimeYear": "98.38%",
+    "uptime": "99.61%",
+    "uptimeDay": "79.30%",
+    "uptimeWeek": "87.35%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "98.32%",
     "time": 1159,
     "timeDay": 622,
     "timeWeek": 1071,
@@ -1201,7 +1202,7 @@
       "2026-06-12": 93,
       "2026-06-13": 279,
       "2026-06-14": 274,
-      "2026-06-16": 2
+      "2026-06-16": 298
     }
   },
   {
@@ -1263,11 +1264,11 @@
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "84.02%",
-    "uptimeMonth": "90.14%",
-    "uptimeYear": "98.20%",
+    "uptime": "99.57%",
+    "uptimeDay": "79.31%",
+    "uptimeWeek": "81.08%",
+    "uptimeMonth": "89.47%",
+    "uptimeYear": "98.14%",
     "time": 3797,
     "timeDay": 2091,
     "timeWeek": 3477,
@@ -1335,7 +1336,7 @@
       "2026-06-12": 287,
       "2026-06-13": 278,
       "2026-06-14": 272,
-      "2026-06-16": 2
+      "2026-06-16": 298
     }
   },
   {
@@ -1344,11 +1345,11 @@
     "icon": "https://paicucons.ro/wp-content/themes/paicu/inc/assets/images/logo-dark.png",
     "slug": "paicu-and-sons-consulting",
     "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "88.39%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "98.37%",
+    "uptime": "99.61%",
+    "uptimeDay": "79.33%",
+    "uptimeWeek": "85.45%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "98.32%",
     "time": 998,
     "timeDay": 641,
     "timeWeek": 756,
@@ -1414,7 +1415,7 @@
       "2026-06-12": 286,
       "2026-06-13": 278,
       "2026-06-14": 272,
-      "2026-06-16": 1
+      "2026-06-16": 298
     }
   },
   {
@@ -1477,7 +1478,7 @@
     "icon": "https://globstar.ro/img/dor-bionic-logo-1574507922.jpg",
     "slug": "glob-star-1",
     "status": "up",
-    "uptime": "80.73%",
+    "uptime": "80.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
