@@ -187,7 +187,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.76%",
+    "uptimeYear": "83.74%",
     "time": 1138,
     "timeDay": 0,
     "timeWeek": 0,
@@ -200,7 +200,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-06-20": 1066,
+      "2026-06-20": 1148,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -338,19 +338,19 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "75.60%",
-    "uptimeWeek": "83.44%",
-    "uptimeMonth": "89.25%",
-    "uptimeYear": "97.24%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "80.91%",
+    "uptimeWeek": "83.42%",
+    "uptimeMonth": "89.43%",
+    "uptimeYear": "97.28%",
     "time": 1624,
     "timeDay": 1504,
     "timeWeek": 1496,
     "timeMonth": 1642,
     "timeYear": 1623,
     "dailyMinutesDown": {
-      "2026-04-30": 453,
+      "2026-04-30": 219,
       "2026-05-01": 529,
       "2026-05-02": 512,
       "2026-05-03": 649,
@@ -390,7 +390,7 @@
       "2026-06-17": 339,
       "2026-06-18": 202,
       "2026-06-19": 89,
-      "2026-06-20": 263
+      "2026-06-20": 265
     }
   },
   {
@@ -426,11 +426,11 @@
     "icon": "https://www.rolcris.ro/favicons/favicon.ico",
     "slug": "rolcris",
     "status": "down",
-    "uptime": "83.90%",
-    "uptimeDay": "80.10%",
-    "uptimeWeek": "79.79%",
-    "uptimeMonth": "87.07%",
-    "uptimeYear": "30.38%",
+    "uptime": "83.89%",
+    "uptimeDay": "74.39%",
+    "uptimeWeek": "78.98%",
+    "uptimeMonth": "86.88%",
+    "uptimeYear": "30.37%",
     "time": 1982,
     "timeDay": 1063,
     "timeWeek": 1132,
@@ -725,7 +725,7 @@
       "2026-06-16": 718,
       "2026-06-17": 455,
       "2026-06-18": 303,
-      "2026-06-20": 286
+      "2026-06-20": 368
     }
   },
   {
@@ -1143,10 +1143,10 @@
     "slug": "miba",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "61.93%",
-    "uptimeWeek": "80.47%",
-    "uptimeMonth": "88.15%",
-    "uptimeYear": "98.11%",
+    "uptimeDay": "56.21%",
+    "uptimeWeek": "79.66%",
+    "uptimeMonth": "87.96%",
+    "uptimeYear": "98.09%",
     "time": 1154,
     "timeDay": 751,
     "timeWeek": 741,
@@ -1212,7 +1212,7 @@
       "2026-06-16": 718,
       "2026-06-17": 317,
       "2026-06-18": 112,
-      "2026-06-20": 548
+      "2026-06-20": 630
     }
   },
   {
@@ -1275,10 +1275,10 @@
     "slug": "felix-telecom",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "80.19%",
-    "uptimeWeek": "81.14%",
-    "uptimeMonth": "86.58%",
-    "uptimeYear": "97.95%",
+    "uptimeDay": "74.47%",
+    "uptimeWeek": "80.32%",
+    "uptimeMonth": "86.39%",
+    "uptimeYear": "97.93%",
     "time": 3796,
     "timeDay": 4620,
     "timeWeek": 3687,
@@ -1343,7 +1343,7 @@
       "2026-06-16": 718,
       "2026-06-17": 316,
       "2026-06-18": 309,
-      "2026-06-20": 285
+      "2026-06-20": 368
     }
   },
   {
@@ -1353,10 +1353,10 @@
     "slug": "paicu-and-sons-consulting",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "62.04%",
-    "uptimeWeek": "80.52%",
-    "uptimeMonth": "87.74%",
-    "uptimeYear": "98.10%",
+    "uptimeDay": "56.32%",
+    "uptimeWeek": "79.70%",
+    "uptimeMonth": "87.55%",
+    "uptimeYear": "98.08%",
     "time": 994,
     "timeDay": 691,
     "timeWeek": 747,
@@ -1423,7 +1423,7 @@
       "2026-06-16": 717,
       "2026-06-17": 316,
       "2026-06-18": 111,
-      "2026-06-20": 547
+      "2026-06-20": 630
     }
   },
   {
@@ -1434,12 +1434,12 @@
     "status": "up",
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.93%",
+    "uptimeWeek": "89.60%",
     "uptimeMonth": "91.19%",
     "uptimeYear": "98.13%",
     "time": 2942,
     "timeDay": 1334,
-    "timeWeek": 1672,
+    "timeWeek": 1670,
     "timeMonth": 1903,
     "timeYear": 2197,
     "dailyMinutesDown": {
