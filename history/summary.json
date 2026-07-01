@@ -184,11 +184,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.xtelecom.ro.ico",
     "slug": "xtelecom-admin",
     "status": "down",
-    "uptime": "95.56%",
+    "uptime": "95.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.92%",
+    "uptimeYear": "80.90%",
     "time": 1137,
     "timeDay": 0,
     "timeWeek": 0,
@@ -201,7 +201,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-07-01": 126,
+      "2026-07-01": 255,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -351,11 +351,11 @@
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
     "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "88.74%",
-    "uptimeWeek": "87.78%",
-    "uptimeMonth": "89.20%",
-    "uptimeYear": "97.24%",
+    "uptime": "99.36%",
+    "uptimeDay": "79.76%",
+    "uptimeWeek": "86.50%",
+    "uptimeMonth": "88.90%",
+    "uptimeYear": "97.21%",
     "time": 1629,
     "timeDay": 1510,
     "timeWeek": 1517,
@@ -409,7 +409,7 @@
       "2026-06-28": 194,
       "2026-06-29": 355,
       "2026-06-30": 160,
-      "2026-07-01": 2
+      "2026-07-01": 131
     }
   },
   {
@@ -445,11 +445,11 @@
     "icon": "https://www.rolcris.ro/favicons/favicon.ico",
     "slug": "rolcris",
     "status": "down",
-    "uptime": "83.90%",
-    "uptimeDay": "80.73%",
-    "uptimeWeek": "80.16%",
-    "uptimeMonth": "81.12%",
-    "uptimeYear": "29.78%",
+    "uptime": "83.89%",
+    "uptimeDay": "71.75%",
+    "uptimeWeek": "78.88%",
+    "uptimeMonth": "80.82%",
+    "uptimeYear": "29.75%",
     "time": 2049,
     "timeDay": 1037,
     "timeWeek": 1150,
@@ -755,7 +755,7 @@
       "2026-06-28": 271,
       "2026-06-29": 474,
       "2026-06-30": 276,
-      "2026-07-01": 2
+      "2026-07-01": 131
     }
   },
   {
@@ -1172,10 +1172,10 @@
     "slug": "miba",
     "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "80.75%",
-    "uptimeWeek": "80.19%",
-    "uptimeMonth": "82.21%",
-    "uptimeYear": "97.73%",
+    "uptimeDay": "71.78%",
+    "uptimeWeek": "78.91%",
+    "uptimeMonth": "81.92%",
+    "uptimeYear": "97.70%",
     "time": 1141,
     "timeDay": 720,
     "timeWeek": 769,
@@ -1241,7 +1241,7 @@
       "2026-06-28": 271,
       "2026-06-29": 474,
       "2026-06-30": 275,
-      "2026-07-01": 2
+      "2026-07-01": 131
     }
   },
   {
@@ -1303,11 +1303,11 @@
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "80.80%",
-    "uptimeWeek": "80.23%",
-    "uptimeMonth": "80.94%",
-    "uptimeYear": "97.58%",
+    "uptime": "99.44%",
+    "uptimeDay": "71.83%",
+    "uptimeWeek": "78.95%",
+    "uptimeMonth": "80.64%",
+    "uptimeYear": "97.56%",
     "time": 3787,
     "timeDay": 3466,
     "timeWeek": 2993,
@@ -1374,7 +1374,7 @@
       "2026-06-28": 271,
       "2026-06-29": 474,
       "2026-06-30": 275,
-      "2026-07-01": 2
+      "2026-07-01": 131
     }
   },
   {
@@ -1384,10 +1384,10 @@
     "slug": "paicu-and-sons-consulting",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "88.81%",
-    "uptimeWeek": "81.40%",
-    "uptimeMonth": "82.08%",
-    "uptimeYear": "97.64%",
+    "uptimeDay": "79.84%",
+    "uptimeWeek": "80.12%",
+    "uptimeMonth": "81.78%",
+    "uptimeYear": "97.62%",
     "time": 980,
     "timeDay": 716,
     "timeWeek": 786,
@@ -1454,7 +1454,7 @@
       "2026-06-28": 271,
       "2026-06-29": 471,
       "2026-06-30": 160,
-      "2026-07-01": 2
+      "2026-07-01": 131
     }
   },
   {
