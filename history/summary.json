@@ -39,7 +39,7 @@
     "timeDay": 758,
     "timeWeek": 1009,
     "timeMonth": 959,
-    "timeYear": 1351,
+    "timeYear": 1348,
     "dailyMinutesDown": {
       "2025-12-22": 50,
       "2025-12-31": 696,
@@ -62,7 +62,7 @@
     "timeDay": 1365,
     "timeWeek": 1714,
     "timeMonth": 1791,
-    "timeYear": 1337,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2025-08-29": 21,
       "2025-09-02": 27,
@@ -142,7 +142,7 @@
     "timeDay": 938,
     "timeWeek": 1111,
     "timeMonth": 1069,
-    "timeYear": 1427,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2025-07-08": 31,
       "2025-07-09": 43,
@@ -188,12 +188,12 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "79.87%",
+    "uptimeYear": "79.86%",
     "time": 1138,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1132,
+    "timeYear": 1129,
     "dailyMinutesDown": {
       "2025-11-06": 47,
       "2025-12-13": 34,
@@ -201,7 +201,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-07-04": 1338,
+      "2026-07-04": 1396,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -292,7 +292,7 @@
     "timeDay": 696,
     "timeWeek": 763,
     "timeMonth": 822,
-    "timeYear": 983,
+    "timeYear": 982,
     "dailyMinutesDown": {
       "2025-11-06": 47,
       "2025-12-13": 34,
@@ -317,7 +317,7 @@
     "timeDay": 2054,
     "timeWeek": 2634,
     "timeMonth": 2544,
-    "timeYear": 2005,
+    "timeYear": 2006,
     "dailyMinutesDown": {
       "2025-12-22": 49,
       "2026-03-12": 74,
@@ -353,17 +353,17 @@
     "url": "https://laravel-enso.com",
     "icon": "https://avatars.githubusercontent.com/u/26483909?s=200&v=4",
     "slug": "laravel-enso",
-    "status": "down",
+    "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "91.11%",
-    "uptimeWeek": "87.55%",
-    "uptimeMonth": "89.65%",
-    "uptimeYear": "97.24%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "87.21%",
+    "uptimeMonth": "89.66%",
+    "uptimeYear": "97.23%",
     "time": 1624,
-    "timeDay": 1390,
-    "timeWeek": 1482,
-    "timeMonth": 1584,
-    "timeYear": 1623,
+    "timeDay": 1385,
+    "timeWeek": 1485,
+    "timeMonth": 1581,
+    "timeYear": 1622,
     "dailyMinutesDown": {
       "2026-05-03": 105,
       "2026-05-04": 619,
@@ -414,7 +414,7 @@
       "2026-06-30": 160,
       "2026-07-01": 278,
       "2026-07-03": 188,
-      "2026-07-04": 57
+      "2026-07-04": 113
     }
   },
   {
@@ -432,7 +432,7 @@
     "timeDay": 452,
     "timeWeek": 571,
     "timeMonth": 533,
-    "timeYear": 474,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2025-10-20": 25,
       "2026-01-30": 39,
@@ -451,15 +451,15 @@
     "slug": "rolcris",
     "status": "down",
     "uptime": "83.92%",
-    "uptimeDay": "84.91%",
-    "uptimeWeek": "82.86%",
+    "uptimeDay": "80.89%",
+    "uptimeWeek": "82.51%",
     "uptimeMonth": "81.88%",
-    "uptimeYear": "29.65%",
+    "uptimeYear": "29.64%",
     "time": 1975,
     "timeDay": 957,
-    "timeWeek": 1109,
+    "timeWeek": 1112,
     "timeMonth": 1135,
-    "timeYear": 1098,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2026-03-19": 635,
       "2026-03-18": 1440,
@@ -762,7 +762,7 @@
       "2026-06-30": 276,
       "2026-07-01": 350,
       "2026-07-03": 117,
-      "2026-07-04": 217
+      "2026-07-04": 275
     }
   },
   {
@@ -885,7 +885,7 @@
     "timeDay": 164,
     "timeWeek": 227,
     "timeMonth": 206,
-    "timeYear": 251,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2025-11-18": 19,
       "2025-11-19": 21,
@@ -1000,7 +1000,7 @@
     "timeDay": 161,
     "timeWeek": 202,
     "timeMonth": 197,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2025-11-17": 20,
       "2025-11-18": 19,
@@ -1137,7 +1137,7 @@
     "timeDay": 431,
     "timeWeek": 452,
     "timeMonth": 404,
-    "timeYear": 795,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2025-08-07": 44,
       "2025-12-05": 26,
@@ -1180,15 +1180,15 @@
     "slug": "miba",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "84.95%",
-    "uptimeWeek": "82.89%",
+    "uptimeDay": "80.94%",
+    "uptimeWeek": "82.53%",
     "uptimeMonth": "82.49%",
-    "uptimeYear": "97.64%",
+    "uptimeYear": "97.63%",
     "time": 1139,
     "timeDay": 1322,
-    "timeWeek": 883,
+    "timeWeek": 882,
     "timeMonth": 925,
-    "timeYear": 1149,
+    "timeYear": 1148,
     "dailyMinutesDown": {
       "2026-03-20": 36,
       "2026-03-21": 144,
@@ -1249,7 +1249,7 @@
       "2026-06-30": 275,
       "2026-07-01": 349,
       "2026-07-03": 117,
-      "2026-07-04": 217
+      "2026-07-04": 275
     }
   },
   {
@@ -1294,7 +1294,7 @@
     "timeDay": 974,
     "timeWeek": 1285,
     "timeMonth": 1220,
-    "timeYear": 1281,
+    "timeYear": 1280,
     "dailyMinutesDown": {
       "2025-12-22": 47,
       "2026-03-06": 76,
@@ -1311,15 +1311,15 @@
     "slug": "felix-telecom",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "73.29%",
-    "uptimeWeek": "81.25%",
+    "uptimeDay": "69.28%",
+    "uptimeWeek": "80.89%",
     "uptimeMonth": "80.84%",
-    "uptimeYear": "97.51%",
+    "uptimeYear": "97.50%",
     "time": 3780,
     "timeDay": 2600,
-    "timeWeek": 3359,
+    "timeWeek": 3299,
     "timeMonth": 3513,
-    "timeYear": 3728,
+    "timeYear": 3726,
     "dailyMinutesDown": {
       "2026-04-01": 143,
       "2026-04-04": 99,
@@ -1378,7 +1378,7 @@
       "2026-06-30": 275,
       "2026-07-01": 349,
       "2026-07-03": 117,
-      "2026-07-04": 385
+      "2026-07-04": 442
     }
   },
   {
@@ -1388,15 +1388,15 @@
     "slug": "paicu-and-sons-consulting",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "85.05%",
-    "uptimeWeek": "84.09%",
+    "uptimeDay": "81.04%",
+    "uptimeWeek": "83.73%",
     "uptimeMonth": "82.36%",
-    "uptimeYear": "97.64%",
+    "uptimeYear": "97.63%",
     "time": 977,
     "timeDay": 676,
-    "timeWeek": 772,
+    "timeWeek": 769,
     "timeMonth": 770,
-    "timeYear": 948,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2026-03-17": 64,
       "2026-03-20": 36,
@@ -1458,7 +1458,7 @@
       "2026-06-30": 160,
       "2026-07-01": 349,
       "2026-07-03": 117,
-      "2026-07-04": 215
+      "2026-07-04": 273
     }
   },
   {
@@ -1476,7 +1476,7 @@
     "timeDay": 1472,
     "timeWeek": 1912,
     "timeMonth": 1827,
-    "timeYear": 2161,
+    "timeYear": 2158,
     "dailyMinutesDown": {
       "2025-08-14": 375,
       "2025-08-13": 21,
@@ -1527,7 +1527,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.76%",
+    "uptimeYear": "90.77%",
     "time": 3001,
     "timeDay": 2283,
     "timeWeek": 3022,
@@ -1617,7 +1617,7 @@
     "timeDay": 1059,
     "timeWeek": 1357,
     "timeMonth": 1340,
-    "timeYear": 1413,
+    "timeYear": 1412,
     "dailyMinutesDown": {
       "2025-11-04": 22,
       "2025-12-09": 60,
