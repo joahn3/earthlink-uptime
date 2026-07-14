@@ -182,7 +182,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.37%",
+    "uptimeYear": "77.35%",
     "time": 1133,
     "timeDay": 0,
     "timeWeek": 0,
@@ -195,7 +195,7 @@
       "2026-03-06": 34,
       "2026-03-12": 75,
       "2026-03-25": 34,
-      "2026-07-14": 63,
+      "2026-07-14": 167,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -458,9 +458,9 @@
     "slug": "rolcris",
     "status": "down",
     "uptime": "83.99%",
-    "uptimeDay": "74.75%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "83.50%",
+    "uptimeDay": "67.55%",
+    "uptimeWeek": "90.38%",
+    "uptimeMonth": "83.26%",
     "uptimeYear": "29.44%",
     "time": 1871,
     "timeDay": 1453,
@@ -773,7 +773,7 @@
       "2026-07-06": 37,
       "2026-07-10": 116,
       "2026-07-13": 300,
-      "2026-07-14": 63
+      "2026-07-14": 167
     }
   },
   {
@@ -1190,11 +1190,11 @@
     "icon": "https://www.miba.ro/img/logo.png",
     "slug": "miba",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "84.71%",
-    "uptimeWeek": "90.88%",
-    "uptimeMonth": "83.54%",
-    "uptimeYear": "97.51%",
+    "uptime": "99.43%",
+    "uptimeDay": "77.50%",
+    "uptimeWeek": "89.85%",
+    "uptimeMonth": "83.31%",
+    "uptimeYear": "97.49%",
     "time": 1136,
     "timeDay": 744,
     "timeWeek": 1000,
@@ -1258,7 +1258,7 @@
       "2026-07-06": 37,
       "2026-07-10": 115,
       "2026-07-13": 218,
-      "2026-07-14": 2
+      "2026-07-14": 106
     }
   },
   {
@@ -1319,11 +1319,11 @@
     "icon": "https://www.felixtelecom.ro/assets/img/svg/logo-intreg.svg",
     "slug": "felix-telecom",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "84.76%",
-    "uptimeWeek": "92.86%",
-    "uptimeMonth": "83.78%",
-    "uptimeYear": "97.43%",
+    "uptime": "99.41%",
+    "uptimeDay": "77.55%",
+    "uptimeWeek": "91.83%",
+    "uptimeMonth": "83.55%",
+    "uptimeYear": "97.41%",
     "time": 3771,
     "timeDay": 3580,
     "timeWeek": 3221,
@@ -1387,7 +1387,7 @@
       "2026-07-06": 36,
       "2026-07-10": 115,
       "2026-07-13": 218,
-      "2026-07-14": 2
+      "2026-07-14": 105
     }
   },
   {
@@ -1397,10 +1397,10 @@
     "slug": "paicu-and-sons-consulting",
     "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "84.80%",
-    "uptimeWeek": "92.87%",
-    "uptimeMonth": "84.30%",
-    "uptimeYear": "97.54%",
+    "uptimeDay": "77.59%",
+    "uptimeWeek": "91.84%",
+    "uptimeMonth": "84.07%",
+    "uptimeYear": "97.52%",
     "time": 972,
     "timeDay": 669,
     "timeWeek": 771,
@@ -1466,7 +1466,7 @@
       "2026-07-06": 36,
       "2026-07-10": 115,
       "2026-07-13": 218,
-      "2026-07-14": 1
+      "2026-07-14": 105
     }
   },
   {
@@ -1536,7 +1536,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.25%",
+    "uptimeYear": "93.27%",
     "time": 3012,
     "timeDay": 2785,
     "timeWeek": 2678,
